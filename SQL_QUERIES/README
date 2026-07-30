@@ -1,0 +1,48 @@
+# SQL Analysis
+
+## Overview
+
+This folder contains the SQL analysis performed for the Loan Approval & Credit Risk Assessment project. The purpose of this phase is to transform business questions into analytical queries that uncover patterns, trends, and relationships within the loan application dataset.
+
+The analysis focuses on understanding applicant characteristics, identifying factors associated with loan approval decisions, and exploring financial indicators that support credit risk assessment. Since the dataset does not include loan repayment or default information, the analysis is limited to insights that can be supported by the available data.
+
+## Objectives
+
+The SQL analysis aims to:
+
+* Validate the quality and structure of the imported dataset.
+* Summarize applicant demographics and financial characteristics.
+* Investigate factors associated with loan approval decisions.
+* Compare applicant groups using descriptive and diagnostic analysis.
+* Produce insights that can be visualized in Power BI and support business recommendations.
+
+## Analysis Categories
+
+The SQL queries are organised into the following sections:
+
+### 1. Data Quality Checks
+
+Verifying record counts, identifying missing values, checking duplicate records, validating data types, and ensuring the dataset is suitable for analysis.
+
+### 2. Descriptive Analysis
+
+Summarising applicant characteristics through counts, averages, percentages, and distributions to understand the overall loan applicant population.
+
+### 3. Diagnostic Analysis
+
+Comparing applicant groups to identify relationships between variables such as income, credit score, employment type, work experience, loan amount, and loan approval status.
+
+## Key Business Questions
+
+The SQL analysis investigates questions including:
+
+* What percentage of loan applications are approved?
+* Does income appear to be associated with loan approval?
+* Does years of work experience appear to be associated with loan approval?
+* What is the average approved loan amount?
+* Which employment types receive the highest average approved loan amounts?
+* How do applicant characteristics differ between approved and rejected applications?
+
+## Next Phase
+
+The insights generated from these SQL queries will be visualised in Power BI to communicate trends, support stakeholder decision-making, and provide recommendations for improving data-driven loan approval decisions.
