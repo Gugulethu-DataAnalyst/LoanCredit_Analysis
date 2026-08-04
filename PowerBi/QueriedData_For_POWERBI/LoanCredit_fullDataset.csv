@@ -1,0 +1,1001 @@
+Age,Income,LoanAmount,CreditScore,YearsExperience,Gender,Education,City,EmploymentType,LoanApproved,GenderMapping,DeptToIncome(%),Age_group,IncomeOutlier,loanOutlier
+56,48353,31258,675,20,Female,"High School",Houston,Unemployed,0,0,64,middle_age,no,no
+69,57462,23262,586,6,Male,"High School","San Francisco",Self-Employed,0,1,40,senior,no,no
+46,44219,26530,781,26,Male,PhD,Houston,Self-Employed,1,1,59,middle_age,no,no
+32,56307,11531,549,11,Male,Bachelors,"New York",Unemployed,0,1,20,adulting,no,no
+60,37034,27871,500,19,Female,"High School",Chicago,Unemployed,0,0,75,middle_age,no,no
+25,47886,18106,835,13,Male,Masters,"New York",Salaried,1,1,37,young,no,no
+38,54748,25374,760,9,Female,"High School","New York",Self-Employed,1,0,46,adulting,no,no
+56,49738,6279,599,22,Male,PhD,"New York",Unemployed,0,1,12,middle_age,no,no
+36,25918,25041,777,29,Female,Bachelors,"San Francisco",Unemployed,0,0,96,adulting,no,no
+40,43415,2065,382,30,Female,"High School","San Francisco",Self-Employed,0,0,4,adulting,no,no
+28,75162,17793,757,9,Female,PhD,"New York",Unemployed,0,0,23,young,no,no
+28,42613,6356,597,18,Female,"High School","San Francisco",Self-Employed,0,0,14,young,no,no
+41,50237,25064,663,18,Female,PhD,Houston,Unemployed,0,0,49,adulting,no,no
+53,48699,20554,575,22,Female,Bachelors,Chicago,Self-Employed,0,0,42,middle_age,no,no
+57,49738,13834,639,31,Male,Masters,"San Francisco",Salaried,1,1,27,middle_age,no,no
+41,69356,31475,815,19,Female,Bachelors,"San Francisco",Unemployed,0,0,45,adulting,no,no
+20,62113,12827,407,3,Male,Bachelors,"New York",Unemployed,1,1,20,young,no,no
+39,35401,-4250,615,32,Female,PhD,Chicago,Unemployed,0,0,-12,adulting,no,yes
+19,55388,24109,413,0,Female,PhD,Houston,Salaried,0,0,43,young,no,no
+41,49738,5867,466,12,Male,Bachelors,Houston,Unemployed,0,1,11,adulting,no,no
+61,39521,13080,560,2,Female,Masters,Chicago,Unemployed,0,0,33,senior,no,no
+47,36942,15861,523,11,Male,Masters,Houston,Self-Employed,1,1,42,middle_age,no,no
+55,75575,8608,561,28,Female,"High School",Chicago,Unemployed,0,0,11,middle_age,no,no
+19,45488,16050,550,30,Male,Masters,"New York",Unemployed,0,1,35,young,no,no
+38,74225,8758,825,35,Male,Bachelors,Houston,Self-Employed,1,1,11,adulting,no,no
+50,64956,21299,425,1,Female,Bachelors,Houston,Salaried,0,0,32,middle_age,no,no
+29,56118,10170,505,21,Male,Masters,Chicago,Salaried,0,1,18,young,no,no
+39,56788,20241,439,21,Male,Masters,Houston,Self-Employed,0,1,35,adulting,no,no
+61,28994,29296,361,30,Female,Bachelors,"San Francisco",Salaried,0,0,101,senior,no,no
+42,53102,26259,582,13,Female,Bachelors,"New York",Salaried,0,0,49,adulting,no,no
+66,71255,19346,353,28,Female,Bachelors,Houston,Unemployed,0,0,27,senior,no,no
+44,60220,12090,645,34,Male,Bachelors,Houston,Unemployed,0,1,20,adulting,no,no
+59,52315,21273,823,8,Male,Bachelors,Houston,Unemployed,1,1,40,middle_age,no,no
+45,75679,14434,435,31,Male,Masters,Chicago,Salaried,0,1,19,adulting,no,no
+33,47224,21609,629,26,Female,Masters,"New York",Unemployed,0,0,45,adulting,no,no
+32,40707,6278,443,9,Female,"High School","New York",Salaried,0,0,15,adulting,no,no
+64,52307,26458,735,24,Male,"High School",Houston,Unemployed,0,1,50,senior,no,no
+68,61497,20266,581,32,Female,PhD,Houston,Salaried,0,0,32,senior,no,no
+61,24233,37668,435,10,Female,"High School",Chicago,Self-Employed,0,0,155,senior,no,no
+69,54273,30448,788,36,Female,Masters,"New York",Self-Employed,1,0,56,senior,no,no
+20,62155,24529,700,8,Female,"High School","San Francisco",Unemployed,0,0,39,young,no,no
+54,45955,19008,748,6,Female,"High School",Houston,Salaried,1,0,41,middle_age,no,no
+68,66604,14163,569,6,Male,Masters,"San Francisco",Self-Employed,0,1,21,senior,no,no
+24,59618,27539,316,33,Male,Bachelors,"San Francisco",Self-Employed,0,1,46,young,no,no
+38,82121,18164,568,18,Female,Masters,"New York",Unemployed,0,0,22,adulting,no,no
+26,38741,29347,781,19,Female,Masters,"San Francisco",Unemployed,0,0,75,young,no,no
+56,62461,23207,518,24,Male,PhD,Houston,Salaried,0,1,37,middle_age,no,no
+35,34740,23264,618,4,Male,PhD,Houston,Self-Employed,0,1,66,adulting,no,no
+21,25770,24756,537,28,Male,Bachelors,Chicago,Salaried,0,1,96,young,no,no
+42,19467,12643,844,26,Male,Bachelors,"New York",Salaried,0,1,64,adulting,no,no
+31,58075,11823,584,24,Male,"High School","New York",Unemployed,0,1,20,adulting,no,no
+67,52764,11546,336,36,Female,PhD,"San Francisco",Salaried,0,0,21,senior,no,no
+26,42814,28380,402,14,Male,Masters,Houston,Salaried,0,1,66,young,no,no
+43,23397,12434,729,3,Male,PhD,Houston,Self-Employed,0,1,53,adulting,no,no
+19,39644,13431,538,13,Male,Masters,Chicago,Salaried,0,1,33,young,no,no
+37,50061,24300,424,16,Male,Bachelors,"San Francisco",Self-Employed,0,1,48,adulting,no,no
+45,61898,17984,487,20,Female,PhD,Houston,Self-Employed,0,0,29,adulting,no,no
+64,49752,16962,555,15,Female,Masters,"New York",Salaried,0,0,34,senior,no,no
+24,53781,16268,829,25,Male,"High School",Chicago,Salaried,1,1,30,young,no,no
+61,44358,1395,691,8,Male,Bachelors,"New York",Self-Employed,1,1,3,senior,no,no
+25,76238,12265,767,1,Female,Masters,Chicago,Salaried,1,0,16,young,no,no
+64,34726,29453,552,14,Male,"High School","New York",Self-Employed,0,1,84,senior,no,no
+52,39511,15685,475,34,Male,"High School","San Francisco",Salaried,0,1,39,middle_age,no,no
+31,42615,4796,765,23,Female,Masters,Houston,Self-Employed,1,0,11,adulting,no,no
+34,58141,11936,588,37,Female,PhD,"New York",Self-Employed,0,0,20,adulting,no,no
+53,34417,22879,349,13,Male,"High School","San Francisco",Unemployed,0,1,66,middle_age,no,no
+67,49738,22720,303,36,Male,Bachelors,"New York",Salaried,0,1,45,senior,no,no
+57,52474,17646,799,36,Female,"High School","San Francisco",Self-Employed,1,0,33,middle_age,no,no
+21,39585,14486,522,5,Female,PhD,Chicago,Self-Employed,0,0,36,young,no,no
+19,54950,8782,561,17,Female,Bachelors,"San Francisco",Salaried,0,0,15,young,no,no
+23,34883,22945,834,21,Male,Bachelors,"New York",Salaried,0,1,65,young,no,no
+59,33244,26703,675,17,Male,Bachelors,Houston,Salaried,0,1,80,middle_age,no,no
+21,51494,30311,360,1,Male,Masters,Chicago,Unemployed,0,1,58,young,no,no
+46,25104,11115,655,31,Female,"High School",Chicago,Salaried,0,0,44,middle_age,no,no
+35,17828,30924,323,16,Male,PhD,"San Francisco",Unemployed,0,1,173,adulting,no,no
+43,57992,19547,592,0,Female,Masters,"New York",Salaried,0,0,33,adulting,no,no
+61,65735,20213,655,8,Male,Masters,"San Francisco",Unemployed,0,1,30,senior,no,no
+51,42998,27149,328,12,Female,Bachelors,Chicago,Salaried,0,0,63,middle_age,no,no
+27,39979,15672,656,35,Male,Masters,Houston,Unemployed,0,1,39,young,no,no
+53,65083,2690,664,36,Female,"High School","San Francisco",Self-Employed,1,0,4,middle_age,no,no
+31,32817,25639,708,29,Female,Masters,"New York",Unemployed,0,0,78,adulting,no,no
+48,29549,22789,565,30,Female,Masters,"San Francisco",Unemployed,0,0,77,middle_age,no,no
+65,60615,17118,590,22,Female,Bachelors,"San Francisco",Self-Employed,1,0,28,senior,no,no
+32,50136,24980,452,27,Male,Bachelors,"San Francisco",Salaried,0,1,49,adulting,no,no
+25,65973,26616,518,9,Female,Masters,Houston,Self-Employed,0,0,40,young,no,no
+31,17896,7904,472,24,Male,Bachelors,"New York",Self-Employed,0,1,44,adulting,no,no
+40,28990,20180,311,35,Male,Bachelors,"New York",Self-Employed,0,1,69,adulting,no,no
+57,50215,1779,815,25,Female,PhD,Chicago,Unemployed,0,0,3,middle_age,no,no
+38,56265,19010,661,25,Female,PhD,Chicago,Self-Employed,1,0,33,adulting,no,no
+33,62705,17018,776,12,Male,Masters,"San Francisco",Salaried,1,1,27,adulting,no,no
+62,52622,23935,381,16,Male,"High School",Chicago,Unemployed,0,1,45,senior,no,no
+35,52470,11416,639,39,Male,"High School","New York",Unemployed,0,1,21,adulting,no,no
+64,44159,16628,740,3,Male,Bachelors,"San Francisco",Self-Employed,1,1,37,senior,no,no
+41,73864,-5728,525,22,Male,"High School",Chicago,Unemployed,0,1,-7,adulting,no,yes
+43,33455,24460,670,34,Male,"High School",Houston,Salaried,0,1,73,adulting,no,no
+42,55385,19293,327,10,Male,Masters,Chicago,Unemployed,0,1,34,adulting,no,no
+62,35183,20698,315,11,Female,Bachelors,Houston,Self-Employed,0,0,58,senior,no,no
+58,58022,8053,576,8,Male,"High School",Chicago,Self-Employed,0,1,13,middle_age,no,no
+46,34445,23184,632,14,Male,PhD,"New York",Self-Employed,0,1,67,middle_age,no,no
+32,61157,33222,782,36,Female,Bachelors,Chicago,Unemployed,0,0,54,adulting,no,no
+62,51682,18521,587,4,Male,Bachelors,Houston,Self-Employed,0,1,35,senior,no,no
+18,76170,25201,413,18,Male,Bachelors,Houston,Unemployed,0,1,33,,no,no
+42,45785,13035,337,10,Female,PhD,Chicago,Self-Employed,0,0,28,adulting,no,no
+24,56374,19385,753,8,Male,"High School","San Francisco",Self-Employed,1,1,34,young,no,no
+26,38305,7749,465,34,Male,PhD,Houston,Self-Employed,0,1,20,young,no,no
+41,45682,26305,504,26,Female,Bachelors,"New York",Salaried,0,0,57,adulting,no,no
+18,51586,21279,544,12,Female,Bachelors,Chicago,Salaried,0,0,41,,no,no
+61,27092,10246,632,11,Male,Masters,Houston,Self-Employed,0,1,37,senior,no,no
+25,28736,13585,695,8,Female,Bachelors,Chicago,Self-Employed,0,0,47,young,no,no
+41,58998,20489,575,27,Female,Masters,Chicago,Unemployed,0,0,34,adulting,no,no
+28,47809,27391,420,12,Male,Masters,"San Francisco",Unemployed,0,1,57,young,no,no
+68,41106,31836,558,19,Female,Bachelors,Chicago,Salaried,0,0,77,senior,no,no
+34,38945,18927,709,12,Female,PhD,Chicago,Unemployed,0,0,48,adulting,no,no
+25,39523,9083,609,26,Male,Masters,Chicago,Unemployed,0,1,22,young,no,no
+52,51688,21908,367,25,Male,PhD,"New York",Unemployed,0,1,42,middle_age,no,no
+52,56676,34279,413,28,Female,Masters,Chicago,Unemployed,0,0,60,middle_age,no,no
+50,18618,7018,519,28,Female,"High School","New York",Salaried,0,0,37,middle_age,no,no
+22,71193,12363,519,21,Male,Masters,Chicago,Salaried,0,1,17,young,no,no
+59,70126,24888,772,8,Male,Bachelors,"San Francisco",Unemployed,0,1,35,middle_age,no,no
+56,15040,21229,685,23,Female,Masters,"San Francisco",Unemployed,0,0,141,middle_age,no,no
+58,66289,15640,597,18,Male,"High School",Houston,Salaried,0,1,23,middle_age,no,no
+45,65828,21761,552,37,Male,PhD,Chicago,Self-Employed,0,1,33,adulting,no,no
+24,50007,27820,704,30,Female,PhD,"San Francisco",Unemployed,0,0,55,young,no,no
+26,30542,19213,791,38,Female,PhD,"San Francisco",Self-Employed,0,0,62,young,no,no
+25,65228,18512,656,14,Male,Bachelors,Chicago,Unemployed,0,1,28,young,no,no
+29,46382,24712,727,31,Male,PhD,Houston,Salaried,1,1,53,young,no,no
+51,58233,17836,514,28,Female,Bachelors,"New York",Unemployed,0,0,30,middle_age,no,no
+50,83288,29140,679,33,Male,"High School","San Francisco",Self-Employed,1,1,34,middle_age,no,no
+65,53778,36214,513,8,Female,PhD,"San Francisco",Salaried,0,0,67,senior,no,no
+40,49738,12856,397,34,Male,PhD,"New York",Unemployed,0,1,25,adulting,no,no
+41,44964,10000,827,5,Male,PhD,"San Francisco",Unemployed,0,1,22,adulting,no,no
+54,38158,22974,827,36,Male,"High School","New York",Salaried,0,1,60,middle_age,no,no
+52,56502,9716,834,13,Female,Bachelors,"New York",Unemployed,0,0,17,middle_age,no,no
+61,37909,9579,848,8,Female,Masters,Houston,Salaried,0,0,25,senior,no,no
+57,49738,3606,627,18,Male,"High School","New York",Unemployed,0,1,7,middle_age,no,no
+39,30734,16942,464,22,Male,"High School","New York",Salaried,0,1,55,adulting,no,no
+44,48019,19736,415,27,Female,"High School","New York",Unemployed,0,0,41,adulting,no,no
+52,52651,15861,449,15,Female,Bachelors,"New York",Salaried,0,0,30,middle_age,no,no
+18,9728,31123,817,25,Male,Bachelors,"San Francisco",Salaried,0,1,319,,yes,no
+52,53894,30527,331,37,Female,Bachelors,"New York",Unemployed,0,0,56,middle_age,no,no
+54,49314,35431,592,39,Female,Bachelors,"San Francisco",Salaried,0,0,71,middle_age,no,no
+64,38525,20372,476,24,Male,Bachelors,Chicago,Unemployed,0,1,52,senior,no,no
+31,80429,29471,360,34,Male,PhD,Chicago,Unemployed,0,1,36,adulting,no,no
+20,64377,22471,715,4,Female,Masters,"New York",Unemployed,0,0,34,young,no,no
+18,33554,21667,575,6,Female,Masters,Houston,Salaried,0,0,64,,no,no
+22,62574,16261,306,22,Male,Bachelors,Houston,Unemployed,0,1,25,young,no,no
+43,68667,1895,384,24,Female,Bachelors,"San Francisco",Salaried,0,0,2,adulting,no,no
+31,51980,25098,697,0,Male,PhD,"San Francisco",Self-Employed,1,1,48,adulting,no,no
+56,55422,29233,692,21,Male,Bachelors,Chicago,Self-Employed,1,1,52,middle_age,no,no
+44,49738,7795,346,3,Female,PhD,"San Francisco",Self-Employed,0,0,15,adulting,no,no
+26,18713,19922,640,27,Male,PhD,Houston,Unemployed,0,1,106,young,no,no
+32,47197,27933,575,13,Male,"High School",Chicago,Salaried,0,1,59,adulting,no,no
+32,46416,17124,777,32,Male,"High School","New York",Unemployed,0,1,36,adulting,no,no
+43,71452,29545,725,3,Male,Bachelors,"San Francisco",Salaried,1,1,41,adulting,no,no
+59,55006,18878,725,10,Male,PhD,"New York",Self-Employed,1,1,34,middle_age,no,no
+30,45536,15799,814,38,Female,Bachelors,"San Francisco",Self-Employed,1,0,34,young,no,no
+68,48648,30002,428,31,Male,"High School",Houston,Self-Employed,0,1,61,senior,no,no
+49,65351,12530,548,3,Male,"High School","San Francisco",Unemployed,0,1,19,middle_age,no,no
+56,47231,14201,430,0,Male,"High School",Houston,Unemployed,0,1,30,middle_age,no,no
+66,39527,12836,622,25,Female,"High School",Houston,Salaried,0,0,32,senior,no,no
+69,45864,10859,842,32,Male,"High School","New York",Salaried,1,1,23,senior,no,no
+49,64110,21224,365,16,Male,Bachelors,"San Francisco",Self-Employed,0,1,33,middle_age,no,no
+21,57442,15897,400,26,Male,Bachelors,"New York",Unemployed,0,1,27,young,no,no
+47,50664,23909,330,4,Male,"High School",Houston,Unemployed,0,1,47,middle_age,no,no
+54,52873,6123,490,6,Female,Bachelors,Houston,Salaried,0,0,11,middle_age,no,no
+40,41604,11020,714,24,Female,"High School",Houston,Salaried,1,0,26,adulting,no,no
+56,47091,20413,799,7,Male,"High School",Houston,Unemployed,0,1,43,middle_age,no,no
+62,40050,31757,345,33,Female,Bachelors,Chicago,Unemployed,0,0,79,senior,no,no
+32,45578,23028,388,3,Female,Bachelors,Houston,Salaried,0,0,50,adulting,no,no
+60,70193,15285,674,11,Female,Bachelors,"San Francisco",Unemployed,0,0,21,middle_age,no,no
+46,33832,8084,545,30,Male,PhD,Houston,Unemployed,0,1,23,middle_age,no,no
+53,39669,14817,556,10,Male,Bachelors,Chicago,Self-Employed,0,1,37,middle_age,no,no
+30,31186,19660,651,36,Male,Bachelors,"San Francisco",Unemployed,0,1,63,young,no,no
+49,27936,1138,575,35,Male,Masters,Chicago,Unemployed,0,1,4,middle_age,no,no
+24,47198,10293,636,21,Male,"High School",Chicago,Unemployed,0,1,21,young,no,no
+68,40736,14100,825,0,Male,"High School","San Francisco",Salaried,1,1,34,senior,no,no
+39,76425,17941,600,3,Female,Bachelors,Chicago,Self-Employed,0,0,23,adulting,no,no
+45,45757,19565,376,35,Female,Bachelors,Houston,Salaried,0,0,42,adulting,no,no
+19,69341,15113,810,7,Female,PhD,"New York",Self-Employed,1,0,21,young,no,no
+59,64520,24047,529,24,Female,Masters,"New York",Self-Employed,0,0,37,middle_age,no,no
+62,46866,20998,331,27,Female,"High School","New York",Unemployed,0,0,44,senior,no,no
+23,81652,17039,357,37,Male,"High School","San Francisco",Self-Employed,0,1,20,young,no,no
+45,54028,25150,403,35,Male,Bachelors,"San Francisco",Self-Employed,0,1,46,adulting,no,no
+45,72695,24496,611,35,Female,Bachelors,"San Francisco",Unemployed,0,0,33,adulting,no,no
+61,70949,8370,366,3,Male,Masters,"New York",Unemployed,0,1,11,senior,no,no
+61,56220,19744,673,12,Male,"High School","New York",Self-Employed,1,1,35,senior,no,no
+37,61267,27122,534,37,Male,Masters,"San Francisco",Salaried,0,1,44,adulting,no,no
+47,59361,28460,411,24,Male,"High School","New York",Self-Employed,0,1,47,middle_age,no,no
+28,32836,22967,688,2,Male,Bachelors,Chicago,Salaried,0,1,69,young,no,no
+45,50859,18134,707,31,Female,Masters,Chicago,Salaried,1,0,35,adulting,no,no
+42,66114,23371,575,38,Female,PhD,"New York",Self-Employed,0,0,35,adulting,no,no
+56,72893,26462,538,0,Female,Bachelors,"San Francisco",Salaried,0,0,36,middle_age,no,no
+50,39190,20927,594,10,Male,PhD,Houston,Self-Employed,0,1,53,middle_age,no,no
+18,49738,21829,411,1,Male,PhD,Houston,Salaried,0,1,43,,no,no
+44,49738,18002,387,4,Male,PhD,"New York",Salaried,0,1,36,adulting,no,no
+69,48232,9306,775,21,Male,"High School",Houston,Self-Employed,1,1,19,senior,no,no
+30,55340,18605,603,12,Female,PhD,"San Francisco",Unemployed,0,0,33,young,no,no
+58,49738,14583,604,22,Male,"High School",Chicago,Unemployed,0,1,29,middle_age,no,no
+20,58121,14609,589,30,Female,Masters,Chicago,Self-Employed,0,0,25,young,no,no
+56,71626,31471,507,34,Female,Bachelors,"San Francisco",Self-Employed,0,0,43,middle_age,no,no
+23,61762,27612,669,37,Female,"High School",Houston,Unemployed,0,0,44,young,no,no
+25,54659,6452,519,34,Female,"High School","New York",Unemployed,0,0,11,young,no,no
+44,77969,11321,530,12,Male,Masters,Chicago,Salaried,0,1,14,adulting,no,no
+26,66649,17092,648,6,Male,Masters,Houston,Salaried,1,1,25,young,no,no
+54,48614,14875,554,4,Female,Bachelors,Houston,Salaried,0,0,30,middle_age,no,no
+50,31743,22539,751,28,Male,Masters,Chicago,Unemployed,0,1,71,middle_age,no,no
+68,35183,10051,441,7,Male,"High School",Chicago,Self-Employed,0,1,28,senior,no,no
+59,63998,27668,368,7,Male,Bachelors,"New York",Salaried,0,1,43,middle_age,no,no
+61,40545,19648,388,6,Female,Bachelors,"San Francisco",Self-Employed,0,0,48,senior,no,no
+41,34879,17276,435,18,Female,Bachelors,Houston,Unemployed,0,0,49,adulting,no,no
+32,38629,19885,822,38,Female,PhD,"New York",Salaried,0,0,51,adulting,no,no
+49,39689,16660,741,22,Female,PhD,Chicago,Unemployed,0,0,41,middle_age,no,no
+49,62760,3755,337,35,Female,"High School","San Francisco",Self-Employed,0,0,5,middle_age,no,no
+41,47649,20095,507,31,Female,PhD,"San Francisco",Salaried,0,0,42,adulting,no,no
+58,29414,17434,509,3,Female,Masters,Houston,Self-Employed,0,0,59,middle_age,no,no
+69,50466,12364,812,29,Male,Bachelors,"San Francisco",Self-Employed,1,1,24,senior,no,no
+66,53334,28779,659,38,Female,"High School",Chicago,Salaried,1,0,53,senior,no,no
+66,42810,25356,300,4,Male,Masters,Chicago,Salaried,1,1,59,senior,no,no
+69,67338,39511,680,2,Female,Bachelors,Chicago,Unemployed,0,0,58,senior,no,no
+29,43686,26679,836,21,Male,Masters,"New York",Salaried,1,1,61,young,no,no
+56,66625,14853,693,27,Male,PhD,Chicago,Salaried,0,1,22,middle_age,no,no
+19,58952,12754,349,21,Male,Masters,"New York",Salaried,0,1,21,young,no,no
+20,63899,16046,695,21,Male,PhD,Chicago,Salaried,1,1,25,young,no,no
+66,33522,14667,331,33,Female,Bachelors,Chicago,Salaried,0,0,43,senior,no,no
+54,51475,20870,844,28,Female,"High School","San Francisco",Unemployed,0,0,40,middle_age,no,no
+66,49208,7690,533,12,Female,PhD,Houston,Self-Employed,0,0,15,senior,no,no
+34,28670,25178,325,6,Female,PhD,Chicago,Unemployed,0,0,87,adulting,no,no
+66,66576,20730,733,9,Female,Bachelors,"San Francisco",Self-Employed,1,0,31,senior,no,no
+19,37739,24260,360,27,Female,Bachelors,"San Francisco",Salaried,0,0,64,young,no,no
+19,40856,10847,740,3,Female,Bachelors,Houston,Unemployed,0,0,26,young,no,no
+45,34800,21974,429,31,Female,PhD,"San Francisco",Self-Employed,0,0,63,adulting,no,no
+40,60518,30393,653,21,Female,PhD,"San Francisco",Self-Employed,1,0,50,adulting,no,no
+54,27111,13116,497,19,Female,PhD,Houston,Salaried,0,0,48,middle_age,no,no
+49,59268,12897,670,19,Female,Bachelors,"New York",Salaried,1,0,21,middle_age,no,no
+50,65668,25696,446,5,Male,Bachelors,Houston,Self-Employed,0,1,39,middle_age,no,no
+18,58058,12248,797,8,Male,"High School",Houston,Unemployed,0,1,21,,no,no
+36,60689,18134,347,27,Male,Masters,Chicago,Self-Employed,0,1,29,adulting,no,no
+19,61393,31806,471,12,Male,PhD,Chicago,Unemployed,0,1,51,young,no,no
+61,35759,13011,614,30,Male,PhD,"New York",Unemployed,0,1,36,senior,no,no
+43,71521,32356,675,38,Female,"High School",Houston,Self-Employed,1,0,45,adulting,no,no
+49,43099,17314,832,13,Female,Bachelors,Houston,Unemployed,0,0,40,middle_age,no,no
+23,49004,11030,719,21,Male,Masters,"New York",Self-Employed,1,1,22,young,no,no
+49,45010,24830,695,36,Female,"High School",Chicago,Self-Employed,1,0,55,middle_age,no,no
+21,57373,20862,821,23,Male,"High School",Houston,Salaried,1,1,36,young,no,no
+28,41929,20105,486,7,Female,"High School","New York",Self-Employed,0,0,47,young,no,no
+34,51004,13850,332,14,Female,"High School",Chicago,Self-Employed,0,0,27,adulting,no,no
+55,31470,20804,368,5,Male,PhD,"San Francisco",Salaried,0,1,66,middle_age,no,no
+41,67470,3459,490,22,Male,Masters,"New York",Salaried,0,1,5,adulting,no,no
+22,60061,21750,400,24,Male,PhD,"New York",Unemployed,0,1,36,young,no,no
+69,45616,30378,784,30,Female,"High School",Houston,Unemployed,0,0,66,senior,no,no
+51,42963,5877,584,28,Male,Masters,"San Francisco",Salaried,0,1,13,middle_age,no,no
+23,59669,16746,689,22,Female,"High School",Chicago,Salaried,1,0,28,young,no,no
+39,39391,13003,459,9,Female,Bachelors,"San Francisco",Salaried,1,0,33,adulting,no,no
+28,51880,7912,346,8,Female,"High School",Houston,Self-Employed,0,0,15,young,no,no
+65,67421,3577,458,12,Female,"High School",Houston,Self-Employed,0,0,5,senior,no,no
+33,37831,10553,745,31,Male,Bachelors,Chicago,Self-Employed,0,1,27,adulting,no,no
+50,49738,18061,822,0,Male,PhD,Chicago,Salaried,1,1,36,middle_age,no,no
+26,54736,29193,454,0,Male,Bachelors,Chicago,Unemployed,0,1,53,young,no,no
+23,48540,7818,638,36,Male,"High School",Houston,Unemployed,0,1,16,young,no,no
+33,42443,22355,664,39,Female,"High School",Chicago,Self-Employed,1,0,52,adulting,no,no
+46,68222,21757,447,17,Male,Bachelors,Chicago,Self-Employed,0,1,31,middle_age,no,no
+20,41036,33376,443,35,Male,Masters,Chicago,Salaried,0,1,81,young,no,no
+37,22819,24568,402,30,Male,Bachelors,"New York",Salaried,0,1,107,adulting,no,no
+53,49738,25029,392,0,Male,"High School",Chicago,Unemployed,0,1,50,middle_age,no,no
+36,31980,25594,585,35,Female,PhD,Houston,Unemployed,0,0,80,adulting,no,no
+43,60378,12606,723,8,Female,Bachelors,"New York",Salaried,1,0,20,adulting,no,no
+20,70024,15417,418,21,Female,Masters,Houston,Unemployed,0,0,22,young,no,no
+36,59446,28935,328,27,Female,"High School","San Francisco",Unemployed,0,0,48,adulting,no,no
+37,66071,3594,810,25,Male,Bachelors,"New York",Self-Employed,1,1,5,adulting,no,no
+49,80301,14542,329,9,Female,"High School",Chicago,Salaried,0,0,18,middle_age,no,no
+24,64501,9354,665,2,Male,Bachelors,"New York",Salaried,1,1,14,young,no,no
+69,54959,21874,437,1,Male,Bachelors,Houston,Salaried,0,1,39,senior,no,no
+58,74509,16627,774,36,Male,Masters,"New York",Self-Employed,1,1,22,middle_age,no,no
+50,76322,25008,691,30,Male,Bachelors,"San Francisco",Salaried,1,1,32,middle_age,no,no
+57,76532,19128,734,32,Female,Masters,Chicago,Unemployed,0,0,24,middle_age,no,no
+56,42618,7631,533,31,Female,PhD,Chicago,Self-Employed,0,0,17,middle_age,no,no
+35,29690,8001,354,11,Male,Masters,"San Francisco",Self-Employed,0,1,26,adulting,no,no
+57,41702,19952,591,2,Female,Masters,Houston,Salaried,0,0,47,middle_age,no,no
+18,60555,13831,611,25,Female,Masters,"New York",Unemployed,0,0,22,,no,no
+28,52387,15739,847,13,Male,Bachelors,Houston,Salaried,1,1,30,young,no,no
+45,46903,27507,388,11,Male,Masters,Houston,Unemployed,0,1,58,adulting,no,no
+42,58407,26072,511,25,Female,Bachelors,Houston,Salaried,0,0,44,adulting,no,no
+67,27938,34382,617,15,Male,Bachelors,Chicago,Unemployed,0,1,123,senior,no,no
+40,52118,17469,764,7,Female,Masters,"New York",Unemployed,0,0,33,adulting,no,no
+48,66777,14871,386,27,Male,Bachelors,Chicago,Unemployed,0,1,22,middle_age,no,no
+47,58240,23346,708,6,Male,Masters,Chicago,Self-Employed,1,1,40,middle_age,no,no
+59,60377,15514,539,14,Male,PhD,Chicago,Salaried,0,1,25,middle_age,no,no
+52,73961,15776,356,35,Male,Bachelors,"New York",Salaried,0,1,21,middle_age,no,no
+24,49008,18383,412,7,Female,Masters,"San Francisco",Salaried,0,0,37,young,no,no
+33,40204,33222,369,9,Female,"High School",Chicago,Self-Employed,0,0,82,adulting,no,no
+43,67843,25632,575,14,Female,PhD,Chicago,Unemployed,0,0,37,adulting,no,no
+65,67567,26471,575,17,Female,"High School",Chicago,Self-Employed,0,0,39,senior,no,no
+69,58374,32863,532,36,Male,Masters,"New York",Self-Employed,0,1,56,senior,no,no
+66,47594,27220,353,34,Male,Bachelors,"New York",Unemployed,0,1,57,senior,no,no
+19,50021,10949,556,1,Female,Masters,Houston,Salaried,0,0,21,young,no,no
+18,30848,27099,389,21,Female,Bachelors,Chicago,Self-Employed,0,0,87,,no,no
+65,66694,28114,575,14,Female,Masters,Chicago,Unemployed,0,0,42,senior,no,no
+29,66165,25215,707,36,Female,Masters,"New York",Unemployed,0,0,38,young,no,no
+22,30325,18436,568,38,Female,Bachelors,"New York",Salaried,0,0,60,young,no,no
+54,63014,24371,665,35,Male,Bachelors,Chicago,Unemployed,0,1,38,middle_age,no,no
+49,56062,19838,650,4,Female,Masters,"San Francisco",Unemployed,0,0,35,middle_age,no,no
+26,34670,12175,598,14,Female,"High School",Houston,Unemployed,0,0,35,young,no,no
+58,31910,14163,458,26,Male,PhD,Houston,Salaried,0,1,44,middle_age,no,no
+52,55602,25630,786,15,Male,"High School",Chicago,Salaried,1,1,46,middle_age,no,no
+36,44034,12753,825,35,Female,"High School",Houston,Unemployed,0,0,28,adulting,no,no
+65,77299,13508,654,37,Female,"High School",Houston,Unemployed,0,0,17,senior,no,no
+33,64289,26027,700,17,Female,"High School",Chicago,Salaried,1,0,40,adulting,no,no
+20,57105,21070,704,34,Male,Bachelors,Houston,Salaried,1,1,36,young,no,no
+37,57846,24618,575,24,Female,"High School","New York",Salaried,0,0,42,adulting,no,no
+41,69963,10168,691,21,Female,PhD,Chicago,Self-Employed,1,0,14,adulting,no,no
+50,62698,24395,651,30,Male,Bachelors,"New York",Salaried,1,1,38,middle_age,no,no
+41,57496,14720,587,36,Male,"High School",Chicago,Unemployed,0,1,25,adulting,no,no
+69,35296,11865,822,33,Male,Bachelors,"New York",Salaried,0,1,33,senior,no,no
+28,95929,15957,461,22,Male,"High School",Houston,Unemployed,0,1,16,young,yes,no
+66,33452,30897,481,15,Female,"High School","San Francisco",Unemployed,0,0,92,senior,no,no
+25,45312,17084,848,5,Male,PhD,"New York",Unemployed,1,1,37,young,no,no
+53,25179,37611,381,14,Male,Bachelors,"New York",Salaried,0,1,149,middle_age,no,no
+55,58082,3503,823,17,Male,Bachelors,"San Francisco",Salaried,1,1,6,middle_age,no,no
+57,52267,7630,303,37,Female,Bachelors,"San Francisco",Salaried,0,0,14,middle_age,no,no
+37,61479,30593,794,12,Male,"High School","New York",Salaried,1,1,49,adulting,no,no
+52,23914,32605,350,23,Female,"High School","New York",Salaried,0,0,136,middle_age,no,no
+65,66694,13092,560,12,Male,PhD,"New York",Self-Employed,0,1,19,senior,no,no
+42,37888,20551,433,0,Female,PhD,Chicago,Salaried,0,0,54,adulting,no,no
+52,47765,25698,661,35,Female,Bachelors,"New York",Self-Employed,1,0,53,middle_age,no,no
+42,63974,18165,516,17,Female,PhD,"New York",Unemployed,0,0,28,adulting,no,no
+46,53919,21199,367,32,Male,Bachelors,"San Francisco",Unemployed,0,1,39,middle_age,no,no
+35,54979,20087,575,37,Female,"High School","San Francisco",Unemployed,0,0,36,adulting,no,no
+63,61988,8148,645,5,Male,"High School",Chicago,Unemployed,0,1,13,senior,no,no
+35,56432,17243,493,16,Male,Bachelors,Chicago,Self-Employed,0,1,30,adulting,no,no
+19,44883,20099,545,3,Female,PhD,Houston,Self-Employed,0,0,44,young,no,no
+52,47503,20825,575,13,Male,PhD,"New York",Unemployed,0,1,43,middle_age,no,no
+33,53178,6156,683,29,Female,Bachelors,"New York",Salaried,1,0,11,adulting,no,no
+58,36567,26030,576,19,Male,"High School","San Francisco",Unemployed,0,1,71,middle_age,no,no
+53,64940,21036,371,7,Female,Bachelors,Houston,Unemployed,0,0,32,middle_age,no,no
+50,54330,11557,428,1,Male,PhD,"New York",Self-Employed,0,1,21,middle_age,no,no
+21,51122,34393,657,36,Female,Bachelors,Houston,Unemployed,0,0,67,young,no,no
+50,67887,17227,824,3,Male,"High School",Chicago,Self-Employed,1,1,25,middle_age,no,no
+31,48198,17747,519,9,Male,Masters,"New York",Self-Employed,0,1,36,adulting,no,no
+38,47264,25134,305,19,Female,Bachelors,"New York",Unemployed,0,0,53,adulting,no,no
+65,42731,35072,527,34,Male,Masters,Chicago,Salaried,0,1,82,senior,no,no
+37,55146,25448,316,9,Male,Bachelors,"New York",Self-Employed,0,1,46,adulting,no,no
+25,54627,26609,311,27,Female,PhD,Chicago,Self-Employed,0,0,48,young,no,no
+24,40006,11987,798,14,Female,PhD,Chicago,Self-Employed,1,0,29,young,no,no
+20,47335,20696,801,35,Female,Masters,Houston,Unemployed,0,0,43,young,no,no
+34,40106,15742,369,0,Female,Bachelors,"San Francisco",Unemployed,1,0,39,adulting,no,no
+50,39427,25633,407,21,Female,PhD,"San Francisco",Self-Employed,0,0,65,middle_age,no,no
+65,24052,26376,500,26,Male,Masters,Chicago,Salaried,0,1,109,senior,no,no
+29,46536,33066,351,28,Female,Masters,Houston,Unemployed,0,0,71,young,no,no
+68,24467,2733,848,14,Male,Bachelors,Chicago,Salaried,0,1,11,senior,no,no
+39,43058,14955,558,9,Male,PhD,Houston,Salaried,0,1,34,adulting,no,no
+39,40810,30402,781,19,Male,Masters,Houston,Unemployed,0,1,74,adulting,no,no
+63,65778,8788,563,21,Male,Bachelors,"San Francisco",Self-Employed,0,1,13,senior,no,no
+47,34776,26445,602,8,Male,"High School","San Francisco",Salaried,0,1,76,middle_age,no,no
+55,38582,29072,424,31,Female,PhD,Houston,Self-Employed,0,0,75,middle_age,no,no
+55,44277,19773,569,16,Female,Bachelors,"San Francisco",Salaried,0,0,44,middle_age,no,no
+62,41298,8628,779,18,Female,"High School",Houston,Self-Employed,1,0,20,senior,no,no
+68,70539,19028,431,39,Female,Masters,"New York",Unemployed,0,0,26,senior,no,no
+25,32921,31669,301,26,Female,Bachelors,Chicago,Salaried,1,0,96,young,no,no
+44,49738,32312,414,36,Female,Masters,"San Francisco",Salaried,0,0,64,adulting,no,no
+44,54981,21663,780,33,Male,PhD,Chicago,Salaried,1,1,39,adulting,no,no
+51,63218,12182,300,9,Female,PhD,"San Francisco",Self-Employed,0,0,19,middle_age,no,no
+38,44296,33907,630,29,Female,Bachelors,Chicago,Salaried,1,0,76,adulting,no,no
+47,21229,26567,690,20,Female,Masters,Chicago,Salaried,0,0,125,middle_age,no,no
+50,47748,12708,442,20,Female,Bachelors,"San Francisco",Self-Employed,0,0,26,middle_age,no,no
+45,70280,22740,627,33,Female,Masters,"San Francisco",Self-Employed,1,0,32,adulting,no,no
+64,54233,22374,676,8,Male,Masters,"San Francisco",Unemployed,0,1,41,senior,no,no
+50,53546,14906,389,33,Male,"High School","San Francisco",Self-Employed,0,1,27,middle_age,no,no
+22,34055,22785,341,11,Male,Masters,Houston,Salaried,0,1,66,young,no,no
+65,32515,28849,334,20,Female,PhD,"San Francisco",Salaried,0,0,88,senior,no,no
+36,50271,17630,793,19,Female,PhD,"San Francisco",Unemployed,0,0,35,adulting,no,no
+21,28604,29666,423,5,Female,PhD,"San Francisco",Unemployed,0,0,103,young,no,no
+52,61720,5957,356,35,Male,"High School","New York",Salaried,0,1,9,middle_age,no,no
+66,37300,37746,755,11,Male,Bachelors,Chicago,Self-Employed,0,1,101,senior,no,no
+34,49630,20459,534,30,Female,PhD,"San Francisco",Salaried,0,0,41,adulting,no,no
+61,21713,28584,691,1,Female,PhD,"San Francisco",Unemployed,0,0,131,senior,no,no
+45,44093,21749,791,15,Male,Bachelors,Chicago,Salaried,1,1,49,adulting,no,no
+47,32212,13412,642,0,Male,"High School",Chicago,Salaried,0,1,41,middle_age,no,no
+46,15171,19709,475,3,Male,Masters,Houston,Salaried,0,1,129,middle_age,no,no
+63,58128,4724,351,0,Female,Bachelors,Chicago,Unemployed,0,0,8,senior,no,no
+23,74617,25507,849,34,Male,Masters,Chicago,Unemployed,0,1,34,young,no,no
+52,66942,21550,777,12,Female,Masters,"New York",Unemployed,0,0,32,middle_age,no,no
+58,60225,18468,788,30,Female,Masters,Houston,Self-Employed,1,0,30,middle_age,no,no
+54,43788,26022,304,19,Female,Bachelors,"New York",Unemployed,0,0,59,middle_age,no,no
+41,62088,20300,508,6,Male,Bachelors,Chicago,Self-Employed,0,1,32,adulting,no,no
+46,68358,24855,516,39,Male,Masters,"San Francisco",Self-Employed,0,1,36,middle_age,no,no
+66,52052,27699,835,32,Male,"High School",Houston,Unemployed,0,1,53,senior,no,no
+63,32235,15606,641,27,Male,Bachelors,Chicago,Self-Employed,0,1,48,senior,no,no
+48,42509,13317,700,19,Female,"High School",Chicago,Self-Employed,1,0,31,middle_age,no,no
+52,75540,6220,575,31,Female,PhD,"San Francisco",Salaried,0,0,8,middle_age,no,no
+50,48879,20980,510,8,Female,Masters,"San Francisco",Self-Employed,0,0,42,middle_age,no,no
+69,129,23617,325,33,Female,PhD,"San Francisco",Self-Employed,0,0,18307,senior,yes,no
+38,27966,9411,551,13,Male,Bachelors,Houston,Unemployed,0,1,33,adulting,no,no
+49,43633,31363,302,3,Female,Bachelors,"New York",Salaried,0,0,71,middle_age,no,no
+40,65537,13421,301,28,Male,"High School",Houston,Self-Employed,0,1,20,adulting,no,no
+50,45903,3172,301,14,Female,PhD,"San Francisco",Self-Employed,0,0,6,middle_age,no,no
+20,65816,31959,449,16,Male,PhD,Houston,Self-Employed,0,1,48,young,no,no
+35,42108,4216,303,18,Female,"High School","San Francisco",Unemployed,0,0,10,adulting,no,no
+42,20536,27713,796,37,Female,Masters,"New York",Unemployed,0,0,134,adulting,no,no
+59,42627,25769,849,8,Male,Bachelors,Houston,Salaried,1,1,60,middle_age,no,no
+48,55174,22556,767,26,Female,Bachelors,"New York",Self-Employed,1,0,40,middle_age,no,no
+20,53929,15818,369,14,Male,"High School","New York",Salaried,0,1,29,young,no,no
+57,31173,24022,500,36,Female,Masters,"San Francisco",Unemployed,0,0,77,middle_age,no,no
+63,44732,28388,607,27,Male,Masters,Houston,Self-Employed,1,1,63,senior,no,no
+41,90270,12114,551,3,Male,"High School",Houston,Self-Employed,0,1,13,adulting,yes,no
+67,49738,27811,586,20,Male,Bachelors,"New York",Salaried,0,1,55,senior,no,no
+49,59911,27447,591,33,Male,Bachelors,"San Francisco",Self-Employed,0,1,45,middle_age,no,no
+64,18550,22344,453,18,Female,Bachelors,"New York",Unemployed,0,0,120,senior,no,no
+39,62957,15696,432,36,Male,Masters,"New York",Salaried,0,1,24,adulting,no,no
+40,36615,27484,573,3,Male,"High School","New York",Salaried,0,1,75,adulting,no,no
+19,56031,24067,808,36,Male,Masters,"New York",Self-Employed,1,1,42,young,no,no
+44,30627,11872,652,31,Male,Bachelors,Houston,Unemployed,0,1,38,adulting,no,no
+59,54363,17061,304,11,Female,Masters,Chicago,Self-Employed,0,0,31,middle_age,no,no
+19,36370,26552,592,15,Male,Bachelors,Houston,Salaried,0,1,73,young,no,no
+43,39274,20917,659,13,Female,"High School","San Francisco",Salaried,1,0,53,adulting,no,no
+34,56630,28688,513,0,Female,Bachelors,Chicago,Unemployed,0,0,50,adulting,no,no
+57,43544,17267,705,31,Male,PhD,"New York",Salaried,1,1,39,middle_age,no,no
+50,55706,12001,735,20,Male,PhD,Houston,Unemployed,0,1,21,middle_age,no,no
+26,47137,37549,314,3,Male,"High School",Chicago,Self-Employed,0,1,79,young,no,no
+60,51012,6553,572,8,Male,Masters,"New York",Unemployed,0,1,12,middle_age,no,no
+65,56676,16001,344,21,Female,Masters,Houston,Self-Employed,0,0,28,senior,no,no
+56,44750,22238,711,11,Female,Masters,Chicago,Self-Employed,0,0,49,middle_age,no,no
+46,35059,27889,486,29,Male,Bachelors,Houston,Salaried,0,1,79,middle_age,no,no
+59,42015,25172,469,29,Male,PhD,Chicago,Self-Employed,0,1,59,middle_age,no,no
+43,67927,38490,700,31,Female,"High School","San Francisco",Salaried,1,0,56,adulting,no,no
+52,51743,19059,545,35,Female,Masters,Houston,Unemployed,0,0,36,middle_age,no,no
+67,37327,13016,342,6,Male,Masters,Houston,Unemployed,0,1,34,senior,no,no
+42,56023,18242,478,16,Male,"High School",Chicago,Self-Employed,0,1,32,adulting,no,no
+41,57025,17440,756,0,Male,Bachelors,"San Francisco",Unemployed,0,1,30,adulting,no,no
+30,57800,19454,834,13,Male,Masters,Houston,Self-Employed,1,1,33,young,no,no
+24,35332,12140,543,37,Male,Bachelors,"San Francisco",Unemployed,0,1,34,young,no,no
+53,39764,26272,316,25,Male,Bachelors,"San Francisco",Self-Employed,0,1,66,middle_age,no,no
+62,39848,22967,411,26,Female,Bachelors,Houston,Self-Employed,0,0,57,senior,no,no
+37,44590,9889,846,15,Female,Bachelors,"New York",Unemployed,0,0,22,adulting,no,no
+18,58084,27744,329,6,Female,Masters,Chicago,Unemployed,0,0,47,,no,no
+25,54443,13508,491,31,Female,"High School",Houston,Unemployed,0,0,24,young,no,no
+63,55628,10537,736,24,Male,"High School","San Francisco",Unemployed,0,1,18,senior,no,no
+33,70310,20699,478,30,Male,Bachelors,Chicago,Self-Employed,0,1,29,adulting,no,no
+31,60333,5937,773,15,Female,Masters,Houston,Self-Employed,1,0,9,adulting,no,no
+29,47873,24716,433,13,Male,Bachelors,Chicago,Unemployed,0,1,51,young,no,no
+68,32242,-2711,575,24,Male,"High School",Chicago,Unemployed,0,1,-8,senior,no,yes
+40,39282,11765,324,29,Male,Bachelors,"San Francisco",Salaried,0,1,29,adulting,no,no
+32,46074,32601,670,6,Female,PhD,"New York",Self-Employed,1,0,70,adulting,no,no
+45,49738,14507,575,11,Female,Bachelors,"New York",Self-Employed,0,0,29,adulting,no,no
+51,49590,15907,618,2,Female,Bachelors,Chicago,Unemployed,0,0,32,middle_age,no,no
+19,40157,30189,529,26,Female,Bachelors,"San Francisco",Salaried,0,0,75,young,no,no
+49,39007,13657,401,18,Female,Bachelors,"San Francisco",Unemployed,0,0,35,middle_age,no,no
+40,48956,26108,749,36,Female,Masters,Houston,Self-Employed,1,0,53,adulting,no,no
+39,63350,29394,677,6,Female,PhD,Chicago,Self-Employed,1,0,46,adulting,no,no
+68,73865,23828,502,15,Male,Masters,Houston,Salaried,0,1,32,senior,no,no
+42,46913,8441,566,31,Female,"High School","San Francisco",Unemployed,1,0,17,adulting,no,no
+39,49329,15168,761,7,Male,PhD,Chicago,Salaried,1,1,30,adulting,no,no
+39,31791,41709,664,12,Male,PhD,"New York",Unemployed,0,1,131,adulting,no,yes
+66,79088,16076,403,10,Female,Masters,"New York",Salaried,0,0,20,senior,no,no
+69,28985,43891,410,19,Male,Bachelors,Houston,Unemployed,1,1,151,senior,no,yes
+59,67575,33672,727,17,Male,"High School",Chicago,Unemployed,0,1,49,middle_age,no,no
+23,44520,24153,768,36,Female,"High School","San Francisco",Unemployed,0,0,54,young,no,no
+32,41010,22378,549,5,Male,PhD,Houston,Self-Employed,0,1,54,adulting,no,no
+60,33350,16281,781,19,Female,"High School","New York",Unemployed,0,0,48,middle_age,no,no
+54,86151,19289,630,31,Male,PhD,"San Francisco",Self-Employed,1,1,22,middle_age,no,no
+50,53322,14490,500,28,Male,PhD,Chicago,Salaried,0,1,27,middle_age,no,no
+25,50319,19491,575,3,Male,"High School","New York",Unemployed,0,1,38,young,no,no
+61,63301,9102,575,6,Male,PhD,"San Francisco",Self-Employed,0,1,14,senior,no,no
+61,40238,8674,845,19,Female,Bachelors,"New York",Salaried,1,0,21,senior,no,no
+22,50028,30408,410,33,Female,PhD,Chicago,Unemployed,0,0,60,young,no,no
+56,50845,7102,843,35,Female,Bachelors,Houston,Salaried,1,0,13,middle_age,no,no
+21,42318,27089,575,6,Male,Bachelors,"San Francisco",Self-Employed,0,1,64,young,no,no
+23,67995,4845,332,32,Male,Bachelors,"San Francisco",Self-Employed,0,1,7,young,no,no
+62,46720,25037,406,14,Male,"High School",Chicago,Unemployed,0,1,53,senior,no,no
+49,26703,18339,564,31,Male,Bachelors,"New York",Self-Employed,0,1,68,middle_age,no,no
+69,45478,30571,525,21,Female,"High School","New York",Self-Employed,0,0,67,senior,no,no
+47,53738,17344,786,39,Male,Masters,"New York",Salaried,1,1,32,middle_age,no,no
+64,36598,3924,478,28,Female,Bachelors,"San Francisco",Unemployed,0,0,10,senior,no,no
+52,37781,18496,521,24,Male,PhD,"San Francisco",Unemployed,0,1,48,middle_age,no,no
+57,41806,21277,669,4,Male,Masters,"New York",Unemployed,0,1,50,middle_age,no,no
+69,68319,18944,466,13,Female,Masters,"San Francisco",Salaried,0,0,27,senior,no,no
+33,42693,24601,599,34,Female,Bachelors,Houston,Self-Employed,0,0,57,adulting,no,no
+30,71437,15485,680,1,Female,"High School",Chicago,Unemployed,0,0,21,young,no,no
+67,40776,9893,334,24,Female,Masters,Chicago,Unemployed,0,0,24,senior,no,no
+59,49738,12003,706,15,Male,Bachelors,"San Francisco",Salaried,1,1,24,middle_age,no,no
+47,43306,15874,801,15,Female,Masters,Houston,Salaried,1,0,36,middle_age,no,no
+36,61311,15805,613,10,Female,Masters,Houston,Unemployed,0,0,25,adulting,no,no
+34,33226,39249,400,34,Male,Bachelors,"New York",Unemployed,0,1,118,adulting,no,no
+36,61143,30041,514,22,Male,PhD,Chicago,Salaried,0,1,49,adulting,no,no
+45,51708,25494,361,4,Male,PhD,Chicago,Salaried,0,1,49,adulting,no,no
+43,49738,23568,668,34,Male,PhD,Chicago,Salaried,1,1,47,adulting,no,no
+54,47507,22398,667,28,Female,Masters,"San Francisco",Salaried,1,0,47,middle_age,no,no
+43,73008,22440,393,4,Female,"High School",Houston,Self-Employed,0,0,30,adulting,no,no
+40,52068,21306,768,2,Male,"High School","New York",Self-Employed,1,1,40,adulting,no,no
+26,39459,20321,325,5,Female,Masters,"San Francisco",Unemployed,0,0,51,young,no,no
+29,31930,3265,734,22,Female,Masters,"New York",Self-Employed,0,0,10,young,no,no
+18,57581,17047,420,1,Male,Bachelors,"San Francisco",Salaried,0,1,29,,no,no
+18,52938,18078,349,17,Female,Bachelors,Chicago,Unemployed,0,0,34,,no,no
+64,60425,14008,335,29,Female,Masters,"New York",Salaried,0,0,23,senior,no,no
+51,28067,15551,709,37,Male,PhD,Houston,Self-Employed,0,1,55,middle_age,no,no
+49,32416,22406,588,4,Female,"High School",Houston,Salaried,0,0,69,middle_age,no,no
+65,67203,26141,678,10,Female,Masters,"San Francisco",Unemployed,0,0,38,senior,no,no
+42,54970,22394,399,0,Male,Bachelors,Chicago,Self-Employed,0,1,40,adulting,no,no
+57,58001,25940,623,9,Female,Bachelors,"San Francisco",Unemployed,0,0,44,middle_age,no,no
+62,35560,26081,628,25,Male,Bachelors,"New York",Self-Employed,0,1,73,senior,no,no
+18,35285,17602,520,32,Male,PhD,Houston,Salaried,0,1,49,,no,no
+33,64869,24202,409,26,Male,"High School",Houston,Unemployed,0,1,37,adulting,no,no
+56,65576,6029,448,11,Male,Masters,Houston,Self-Employed,0,1,9,middle_age,no,no
+22,33675,16925,705,1,Male,PhD,Houston,Self-Employed,0,1,50,young,no,no
+39,30809,15985,709,0,Male,Masters,"New York",Self-Employed,0,1,51,adulting,no,no
+46,48371,32251,428,0,Female,PhD,Houston,Self-Employed,0,0,66,middle_age,no,no
+20,38010,22697,783,32,Male,PhD,"San Francisco",Salaried,0,1,59,young,no,no
+29,37697,9324,407,21,Female,Masters,Houston,Salaried,0,0,24,young,no,no
+43,31229,24757,688,11,Male,"High School","New York",Self-Employed,0,1,79,adulting,no,no
+33,42973,27278,724,38,Male,Bachelors,Chicago,Salaried,1,1,63,adulting,no,no
+68,32680,19283,746,35,Male,PhD,Chicago,Salaried,0,1,59,senior,no,no
+54,33569,25522,367,20,Female,PhD,Houston,Self-Employed,0,0,76,middle_age,no,no
+39,54476,34,365,19,Female,Bachelors,Chicago,Salaried,0,0,0,adulting,no,no
+46,49172,-1595,803,35,Male,"High School","New York",Unemployed,0,1,-3,middle_age,no,no
+31,57273,10571,803,25,Female,Bachelors,Houston,Unemployed,0,0,18,adulting,no,no
+45,25264,21192,620,30,Male,"High School","New York",Salaried,0,1,83,adulting,no,no
+22,50148,32257,746,0,Male,PhD,Chicago,Self-Employed,1,1,64,young,no,no
+64,49738,10989,509,37,Female,PhD,Chicago,Unemployed,0,0,22,senior,no,no
+66,44416,13171,669,13,Male,Masters,Houston,Salaried,1,1,29,senior,no,no
+47,62371,20709,757,25,Male,"High School",Chicago,Salaried,1,1,33,middle_age,no,no
+63,62240,16061,462,6,Female,Bachelors,Houston,Self-Employed,0,0,25,senior,no,no
+69,62978,15606,631,11,Male,"High School",Houston,Self-Employed,1,1,24,senior,no,no
+22,52500,16628,649,23,Male,"High School","San Francisco",Salaried,1,1,31,young,no,no
+29,58491,30518,767,18,Female,"High School","San Francisco",Self-Employed,1,0,52,young,no,no
+33,60485,28929,725,8,Female,"High School","San Francisco",Unemployed,0,0,47,adulting,no,no
+43,59532,20188,626,34,Male,Bachelors,"New York",Unemployed,0,1,33,adulting,no,no
+43,33239,33236,405,3,Male,Masters,Chicago,Salaried,0,1,99,adulting,no,no
+65,24389,24072,554,31,Female,PhD,Chicago,Salaried,0,0,98,senior,no,no
+38,26696,29231,657,5,Female,Bachelors,"San Francisco",Self-Employed,0,0,109,adulting,no,no
+56,45948,13116,743,27,Male,Bachelors,Houston,Unemployed,0,1,28,middle_age,no,no
+53,58909,14771,412,27,Female,PhD,Houston,Self-Employed,0,0,25,middle_age,no,no
+50,33434,14685,329,39,Female,Masters,Houston,Salaried,0,0,43,middle_age,no,no
+47,63860,19306,823,28,Female,Bachelors,Houston,Salaried,1,0,30,middle_age,no,no
+54,42466,20479,345,4,Male,PhD,"New York",Salaried,0,1,48,middle_age,no,no
+40,42609,22593,470,4,Male,Masters,Chicago,Salaried,0,1,53,adulting,no,no
+27,37458,35785,429,36,Male,Masters,"San Francisco",Salaried,0,1,95,young,no,no
+22,21728,25770,652,27,Male,"High School","New York",Salaried,1,1,118,young,no,no
+53,53440,15882,502,8,Male,Bachelors,Chicago,Self-Employed,0,1,29,middle_age,no,no
+51,75690,19974,525,28,Female,Masters,"New York",Self-Employed,0,0,26,middle_age,no,no
+69,49060,32040,575,13,Female,Bachelors,Houston,Self-Employed,0,0,65,senior,no,no
+48,22241,26255,609,37,Female,PhD,"New York",Unemployed,0,0,118,middle_age,no,no
+27,61705,31934,334,39,Male,Bachelors,"New York",Self-Employed,0,1,51,young,no,no
+36,25628,16139,460,33,Male,Masters,Houston,Salaried,0,1,62,adulting,no,no
+49,31864,14307,734,36,Female,PhD,Houston,Self-Employed,0,0,44,middle_age,no,no
+18,46425,14424,837,13,Female,PhD,"San Francisco",Self-Employed,1,0,31,,no,no
+22,51843,16784,524,17,Female,"High School","San Francisco",Unemployed,0,0,32,young,no,no
+62,34870,11494,745,32,Female,PhD,Chicago,Salaried,0,0,32,senior,no,no
+21,45840,22362,616,33,Male,Masters,"San Francisco",Unemployed,0,1,48,young,no,no
+33,60727,22499,713,27,Male,"High School","San Francisco",Unemployed,0,1,37,adulting,no,no
+41,62783,30710,394,35,Female,Masters,Chicago,Unemployed,0,0,48,adulting,no,no
+33,68772,5918,524,36,Male,Masters,"New York",Self-Employed,0,1,8,adulting,no,no
+19,78641,12447,365,22,Male,"High School","New York",Salaried,0,1,15,young,no,no
+66,62148,26445,696,16,Male,"High School","New York",Salaried,1,1,42,senior,no,no
+45,46749,21468,509,10,Male,Bachelors,Houston,Unemployed,0,1,45,adulting,no,no
+49,62890,20358,773,31,Female,Masters,Chicago,Salaried,1,0,32,middle_age,no,no
+44,49738,30111,789,36,Female,Bachelors,"New York",Salaried,1,0,60,adulting,no,no
+37,57596,11920,479,14,Male,PhD,"San Francisco",Unemployed,0,1,20,adulting,no,no
+41,52658,14170,823,3,Female,PhD,"San Francisco",Self-Employed,1,0,26,adulting,no,no
+29,36319,13228,758,38,Male,Bachelors,"San Francisco",Unemployed,0,1,36,young,no,no
+67,34579,3897,367,29,Female,"High School",Chicago,Unemployed,0,0,11,senior,no,no
+52,48543,21063,628,9,Female,PhD,Chicago,Self-Employed,1,0,43,middle_age,no,no
+50,52234,15817,501,22,Female,"High School","San Francisco",Self-Employed,0,0,30,middle_age,no,no
+50,39808,14137,774,23,Female,Bachelors,Houston,Self-Employed,0,0,35,middle_age,no,no
+68,56350,12693,817,35,Female,"High School",Houston,Self-Employed,1,0,22,senior,no,no
+60,81211,19858,314,4,Female,Masters,"New York",Unemployed,0,0,24,middle_age,no,no
+54,23835,13612,341,36,Female,Bachelors,"New York",Self-Employed,0,0,57,middle_age,no,no
+29,58734,21773,842,18,Male,"High School","New York",Salaried,1,1,37,young,no,no
+20,49010,23673,588,36,Female,"High School","New York",Unemployed,0,0,48,young,no,no
+18,56760,17643,575,7,Male,Masters,"New York",Unemployed,0,1,31,,no,no
+50,43539,17100,543,6,Female,"High School",Chicago,Self-Employed,0,0,39,middle_age,no,no
+57,47809,21484,473,39,Female,Bachelors,Chicago,Self-Employed,0,0,44,middle_age,no,no
+27,51943,19769,833,12,Female,Bachelors,Houston,Salaried,1,0,38,young,no,no
+60,45475,30641,808,36,Male,Bachelors,Houston,Self-Employed,1,1,67,middle_age,no,no
+61,49738,22546,543,26,Male,PhD,Chicago,Unemployed,0,1,45,senior,no,no
+46,46491,28765,359,17,Male,"High School",Houston,Self-Employed,0,1,61,middle_age,no,no
+30,49738,24884,403,23,Male,PhD,"San Francisco",Salaried,0,1,50,young,no,no
+29,59798,9453,575,1,Male,PhD,Houston,Unemployed,0,1,15,young,no,no
+48,22017,15534,376,15,Female,"High School","San Francisco",Unemployed,0,0,70,middle_age,no,no
+63,65430,19615,317,13,Male,"High School","San Francisco",Self-Employed,0,1,29,senior,no,no
+19,56443,26948,833,16,Male,Bachelors,"New York",Salaried,1,1,47,young,no,no
+68,56501,35423,483,5,Male,PhD,Houston,Salaried,0,1,62,senior,no,no
+67,17535,16127,849,34,Female,PhD,"San Francisco",Self-Employed,0,0,91,senior,no,no
+52,45071,20442,580,16,Female,"High School",Houston,Unemployed,0,0,45,middle_age,no,no
+40,67303,26399,587,37,Female,PhD,Houston,Unemployed,0,0,39,adulting,no,no
+34,42221,19537,824,39,Male,Masters,Chicago,Unemployed,0,1,46,adulting,no,no
+43,33829,33153,773,5,Female,"High School",Chicago,Self-Employed,0,0,98,adulting,no,no
+25,40450,9218,566,37,Male,Bachelors,"New York",Unemployed,0,1,22,young,no,no
+46,48976,25424,656,20,Female,Masters,Houston,Unemployed,0,0,51,middle_age,no,no
+43,37229,25346,300,34,Female,Bachelors,Chicago,Self-Employed,0,0,68,adulting,no,no
+27,68507,29216,326,22,Female,Bachelors,"San Francisco",Unemployed,0,0,42,young,no,no
+43,49030,20496,847,11,Female,Masters,"San Francisco",Self-Employed,1,0,41,adulting,no,no
+51,41666,27132,575,28,Female,Masters,"New York",Salaried,0,0,65,middle_age,no,no
+68,30480,18007,698,26,Male,Bachelors,"San Francisco",Salaried,0,1,59,senior,no,no
+58,57267,13589,842,5,Male,PhD,Houston,Self-Employed,1,1,23,middle_age,no,no
+24,56925,12422,426,20,Female,Masters,"San Francisco",Self-Employed,0,0,21,young,no,no
+21,38117,8469,509,6,Male,Masters,"New York",Self-Employed,0,1,22,young,no,no
+67,16455,16469,449,15,Female,"High School","New York",Unemployed,0,0,100,senior,no,no
+62,56161,22492,330,4,Female,Bachelors,"San Francisco",Unemployed,0,0,40,senior,no,no
+28,47198,18335,601,14,Female,PhD,Houston,Self-Employed,1,0,38,young,no,no
+46,55041,21584,556,20,Female,PhD,Chicago,Self-Employed,0,0,39,middle_age,no,no
+53,79358,29879,356,3,Female,Bachelors,Houston,Unemployed,0,0,37,middle_age,no,no
+42,49598,15860,308,4,Female,Bachelors,Houston,Unemployed,0,0,31,adulting,no,no
+38,42292,38722,304,6,Female,PhD,Houston,Self-Employed,0,0,91,adulting,no,no
+53,32790,26042,413,34,Male,PhD,"San Francisco",Unemployed,0,1,79,middle_age,no,no
+27,45314,18425,575,35,Male,"High School",Chicago,Unemployed,0,1,40,young,no,no
+54,52409,18243,323,14,Female,"High School",Houston,Salaried,0,0,34,middle_age,no,no
+26,50800,11935,792,27,Male,PhD,Chicago,Self-Employed,1,1,23,young,no,no
+41,75852,19794,705,1,Female,Bachelors,"New York",Self-Employed,1,0,26,adulting,no,no
+52,57486,2707,402,4,Male,Bachelors,Chicago,Unemployed,0,1,4,middle_age,no,no
+66,47978,30046,359,6,Male,"High School","San Francisco",Salaried,0,1,62,senior,no,no
+52,39402,-2533,385,21,Female,"High School","New York",Self-Employed,0,0,-6,middle_age,no,yes
+65,54000,20334,671,30,Female,Masters,"New York",Self-Employed,1,0,37,senior,no,no
+53,36395,10848,501,31,Male,"High School",Houston,Unemployed,0,1,29,middle_age,no,no
+35,52697,14391,388,7,Female,PhD,Chicago,Self-Employed,0,0,27,adulting,no,no
+66,57311,15423,736,10,Male,Bachelors,"New York",Unemployed,0,1,26,senior,no,no
+56,46753,35405,419,0,Female,Masters,"New York",Salaried,0,0,75,middle_age,no,no
+49,40546,11174,455,39,Male,Masters,Chicago,Salaried,0,1,27,middle_age,no,no
+41,17221,27314,698,18,Male,Bachelors,Chicago,Self-Employed,0,1,158,adulting,no,no
+40,67158,29283,487,37,Male,Bachelors,"New York",Unemployed,0,1,43,adulting,no,no
+49,49738,1293,351,36,Female,PhD,"New York",Salaried,0,0,2,middle_age,no,no
+54,56414,15077,830,6,Male,"High School",Chicago,Self-Employed,1,1,26,middle_age,no,no
+29,26580,31876,779,38,Female,Masters,"San Francisco",Self-Employed,0,0,119,young,no,no
+66,70698,9482,529,24,Female,Masters,Chicago,Self-Employed,0,0,13,senior,no,no
+30,43022,29586,780,21,Female,Bachelors,"San Francisco",Unemployed,0,0,68,young,no,no
+40,45668,19857,429,26,Female,Bachelors,"New York",Unemployed,0,0,43,adulting,no,no
+42,33961,19511,354,37,Female,"High School",Houston,Salaried,0,0,57,adulting,no,no
+52,23196,20556,570,38,Male,Masters,Chicago,Unemployed,0,1,88,middle_age,no,no
+58,67360,22741,399,14,Female,Bachelors,"New York",Unemployed,0,0,33,middle_age,no,no
+47,69299,12355,368,1,Female,"High School","New York",Self-Employed,0,0,17,middle_age,no,no
+34,47517,17917,598,7,Male,Bachelors,Houston,Self-Employed,0,1,37,adulting,no,no
+66,39809,22965,828,5,Male,"High School",Chicago,Salaried,0,1,57,senior,no,no
+37,44344,21415,653,19,Female,Bachelors,"New York",Self-Employed,1,0,48,adulting,no,no
+65,44756,22794,451,26,Female,Bachelors,"San Francisco",Self-Employed,0,0,50,senior,no,no
+42,32002,14251,629,22,Female,Bachelors,Houston,Self-Employed,0,0,44,adulting,no,no
+39,45616,25058,415,39,Male,PhD,"San Francisco",Unemployed,0,1,54,adulting,no,no
+30,52297,21012,841,16,Female,PhD,Chicago,Self-Employed,1,0,40,young,no,no
+36,65272,7354,622,12,Female,PhD,"San Francisco",Salaried,1,0,11,adulting,no,no
+66,49738,15749,528,3,Male,Bachelors,Houston,Salaried,0,1,31,senior,no,no
+53,26355,12836,659,19,Male,Bachelors,"New York",Self-Employed,0,1,48,middle_age,no,no
+29,55303,12733,304,24,Male,PhD,Houston,Self-Employed,0,1,23,young,no,no
+58,46161,16188,327,21,Female,Masters,"New York",Salaried,0,0,35,middle_age,no,no
+36,70556,24908,663,16,Female,Masters,"New York",Unemployed,0,0,35,adulting,no,no
+29,71442,14986,761,39,Female,Masters,"San Francisco",Self-Employed,1,0,20,young,no,no
+26,71967,21800,530,10,Male,Masters,Houston,Salaried,0,1,30,young,no,no
+24,41576,20489,694,24,Male,PhD,Houston,Unemployed,0,1,49,young,no,no
+45,79848,13768,570,4,Female,"High School","New York",Salaried,0,0,17,adulting,no,no
+31,55264,17241,575,20,Male,"High School",Houston,Unemployed,0,1,31,adulting,no,no
+48,74396,26919,682,25,Male,Masters,Chicago,Salaried,1,1,36,middle_age,no,no
+69,49738,21198,327,15,Male,Bachelors,Chicago,Salaried,0,1,42,senior,no,no
+36,45521,24391,818,39,Male,Masters,"San Francisco",Unemployed,0,1,53,adulting,no,no
+64,54110,30180,498,20,Female,Masters,"San Francisco",Self-Employed,0,0,55,senior,no,no
+33,52278,23479,381,31,Female,"High School",Houston,Salaried,0,0,44,adulting,no,no
+22,68822,4634,575,3,Male,Bachelors,"San Francisco",Self-Employed,0,1,6,young,no,no
+52,46518,22165,689,37,Male,"High School",Houston,Salaried,1,1,47,middle_age,no,no
+29,67469,15055,750,7,Male,Bachelors,"San Francisco",Unemployed,0,1,22,young,no,no
+42,60984,34482,732,8,Male,PhD,Chicago,Self-Employed,1,1,56,adulting,no,no
+69,46799,23194,673,16,Male,"High School","New York",Unemployed,0,1,49,senior,no,no
+38,59820,15220,734,12,Female,PhD,"New York",Unemployed,0,0,25,adulting,no,no
+53,42901,24532,486,8,Male,PhD,Chicago,Self-Employed,0,1,57,middle_age,no,no
+40,85253,20726,689,5,Female,Masters,"New York",Self-Employed,0,0,24,adulting,no,no
+33,10035,6256,517,26,Female,Bachelors,Houston,Self-Employed,0,0,62,adulting,yes,no
+56,60094,26904,575,36,Male,"High School",Houston,Unemployed,0,1,44,middle_age,no,no
+62,23531,16756,849,38,Female,Masters,Chicago,Unemployed,0,0,71,senior,no,no
+59,46615,31365,648,23,Male,"High School",Chicago,Unemployed,0,1,67,middle_age,no,no
+56,48716,19005,821,8,Male,PhD,Chicago,Self-Employed,1,1,39,middle_age,no,no
+31,72615,31514,325,10,Male,"High School",Chicago,Salaried,0,1,43,adulting,no,no
+48,39618,23399,347,34,Female,"High School","New York",Self-Employed,0,0,59,middle_age,no,no
+22,69620,27793,669,28,Female,Masters,"New York",Salaried,1,0,39,young,no,no
+52,32318,16065,313,7,Female,Bachelors,"New York",Unemployed,0,0,49,middle_age,no,no
+40,70200,22824,486,16,Male,"High School",Houston,Salaried,0,1,32,adulting,no,no
+46,42885,6190,823,6,Female,PhD,"San Francisco",Self-Employed,1,0,14,middle_age,no,no
+60,51102,18984,578,11,Female,PhD,Houston,Self-Employed,0,0,37,middle_age,no,no
+28,44954,8124,640,14,Female,Masters,"San Francisco",Self-Employed,1,0,18,young,no,no
+35,69235,10856,627,28,Male,PhD,Chicago,Salaried,1,1,15,adulting,no,no
+64,49738,12874,324,23,Female,"High School",Chicago,Self-Employed,0,0,25,senior,no,no
+29,56653,25283,828,36,Male,Bachelors,"New York",Salaried,1,1,44,young,no,no
+26,32722,18821,725,13,Female,"High School","New York",Unemployed,1,0,57,young,no,no
+27,39275,20251,328,10,Female,Masters,"San Francisco",Salaried,0,0,51,young,no,no
+61,34571,18603,622,34,Female,PhD,"San Francisco",Unemployed,0,0,53,senior,no,no
+34,16278,28646,612,16,Male,"High School","New York",Salaried,0,1,175,adulting,no,no
+55,68920,20032,569,26,Male,"High School",Chicago,Unemployed,0,1,29,middle_age,no,no
+24,45083,21991,594,2,Female,PhD,"New York",Self-Employed,0,0,48,young,no,no
+63,44923,15438,522,1,Female,Bachelors,Chicago,Salaried,0,0,34,senior,no,no
+30,72442,29195,374,3,Male,Bachelors,Chicago,Unemployed,0,1,40,young,no,no
+57,42860,29795,401,17,Male,Bachelors,Houston,Self-Employed,0,1,69,middle_age,no,no
+59,37393,19705,831,19,Female,PhD,Houston,Self-Employed,0,0,52,middle_age,no,no
+26,46629,15326,472,20,Female,"High School","San Francisco",Unemployed,0,0,32,young,no,no
+67,33010,7072,303,13,Male,Masters,Chicago,Unemployed,0,1,21,senior,no,no
+44,55165,13051,778,7,Female,"High School","New York",Salaried,1,0,23,adulting,no,no
+19,44395,2663,575,1,Male,PhD,Chicago,Unemployed,0,1,5,young,no,no
+22,42391,12715,466,25,Female,PhD,"San Francisco",Unemployed,0,0,29,young,no,no
+46,41091,22856,599,18,Female,"High School",Chicago,Self-Employed,0,0,55,middle_age,no,no
+54,48407,19597,417,27,Female,PhD,Chicago,Unemployed,0,0,40,middle_age,no,no
+55,51252,38586,811,28,Female,"High School","San Francisco",Unemployed,0,0,75,middle_age,no,no
+36,42200,17032,474,4,Male,"High School",Chicago,Unemployed,0,1,40,adulting,no,no
+25,44619,16407,458,27,Female,Bachelors,Houston,Self-Employed,0,0,36,young,no,no
+65,48777,28502,683,25,Female,PhD,"San Francisco",Self-Employed,1,0,58,senior,no,no
+62,49738,4585,526,4,Female,PhD,Houston,Self-Employed,0,0,9,senior,no,no
+18,50466,8146,337,14,Female,Bachelors,"San Francisco",Self-Employed,0,0,16,,no,no
+39,39850,25311,762,8,Female,Bachelors,Chicago,Salaried,0,0,63,adulting,no,no
+69,65069,18437,730,31,Female,Bachelors,Houston,Self-Employed,1,0,28,senior,no,no
+34,51452,18620,403,25,Male,Masters,Houston,Self-Employed,0,1,36,adulting,no,no
+24,42442,12503,492,36,Female,PhD,"New York",Salaried,0,0,29,young,no,no
+42,49738,21918,549,14,Male,"High School",Houston,Salaried,0,1,44,adulting,no,no
+62,48884,13536,312,3,Male,"High School",Houston,Salaried,0,1,27,senior,no,no
+21,23993,20582,687,35,Male,"High School",Chicago,Unemployed,0,1,85,young,no,no
+53,55114,10732,370,19,Male,PhD,Houston,Self-Employed,0,1,19,middle_age,no,no
+23,49738,18541,737,26,Female,Masters,Houston,Unemployed,0,0,37,young,no,no
+48,64016,36199,343,20,Female,PhD,Houston,Salaried,0,0,56,middle_age,no,no
+36,46374,16601,571,21,Female,PhD,Chicago,Salaried,0,0,35,adulting,no,no
+61,61701,18946,313,6,Male,PhD,"San Francisco",Salaried,0,1,30,senior,no,no
+56,40547,18380,670,30,Female,PhD,Chicago,Salaried,1,0,45,middle_age,no,no
+44,51049,21396,411,16,Male,PhD,Houston,Unemployed,0,1,41,adulting,no,no
+27,68154,23745,678,6,Male,Masters,"San Francisco",Salaried,1,1,34,young,no,no
+43,45965,22058,613,18,Female,Bachelors,Chicago,Self-Employed,1,0,47,adulting,no,no
+36,41138,22235,714,27,Male,"High School",Chicago,Self-Employed,0,1,54,adulting,no,no
+56,59826,18553,784,9,Male,PhD,"San Francisco",Self-Employed,1,1,31,middle_age,no,no
+20,59535,20802,468,26,Male,PhD,"New York",Unemployed,0,1,34,young,no,no
+62,41769,18288,545,12,Male,PhD,Houston,Salaried,0,1,43,senior,no,no
+30,20218,5501,565,1,Female,"High School","New York",Unemployed,0,0,27,young,no,no
+67,40850,41045,542,21,Male,Masters,Houston,Self-Employed,0,1,100,senior,no,no
+45,60160,25825,599,19,Male,"High School",Houston,Salaried,0,1,42,adulting,no,no
+37,38374,12165,626,4,Male,Masters,"New York",Unemployed,0,1,31,adulting,no,no
+45,49836,21840,829,5,Female,Bachelors,"New York",Salaried,1,0,43,adulting,no,no
+25,40138,9231,641,34,Female,PhD,Houston,Salaried,1,0,22,young,no,no
+58,21017,16046,548,0,Male,Masters,"San Francisco",Unemployed,0,1,76,middle_age,no,no
+56,39868,8144,679,34,Female,"High School","San Francisco",Self-Employed,0,0,20,middle_age,no,no
+18,60097,19591,831,2,Female,Masters,"New York",Unemployed,0,0,32,,no,no
+20,14446,7349,680,35,Female,Masters,"New York",Unemployed,0,0,50,young,no,no
+30,53783,23107,341,6,Female,Bachelors,Chicago,Self-Employed,0,0,42,young,no,no
+45,32209,25458,644,28,Male,PhD,"San Francisco",Unemployed,0,1,79,adulting,no,no
+66,59127,13384,560,14,Male,PhD,"San Francisco",Salaried,0,1,22,senior,no,no
+42,60715,21287,575,10,Female,"High School",Houston,Self-Employed,0,0,35,adulting,no,no
+50,47421,12960,539,17,Female,"High School",Chicago,Unemployed,0,0,27,middle_age,no,no
+55,47455,24094,612,3,Female,Bachelors,Houston,Salaried,1,0,50,middle_age,no,no
+23,37905,14491,740,23,Female,Masters,Chicago,Self-Employed,0,0,38,young,no,no
+61,29816,26312,432,10,Female,Masters,"San Francisco",Unemployed,0,0,88,senior,no,no
+62,75471,5507,350,5,Female,"High School",Houston,Self-Employed,0,0,7,senior,no,no
+49,37024,11960,691,17,Female,PhD,Chicago,Salaried,0,0,32,middle_age,no,no
+62,73517,11129,822,14,Male,Masters,Houston,Salaried,1,1,15,senior,no,no
+64,37107,21627,807,2,Male,Bachelors,Chicago,Self-Employed,0,1,58,senior,no,no
+38,57878,24441,653,16,Female,"High School","New York",Salaried,1,0,42,adulting,no,no
+33,32933,22245,694,32,Female,Masters,Houston,Salaried,0,0,67,adulting,no,no
+38,57851,15928,395,33,Male,PhD,"New York",Self-Employed,0,1,27,adulting,no,no
+28,45116,-2361,575,29,Male,PhD,Chicago,Self-Employed,0,1,-5,young,no,yes
+54,45312,20310,812,18,Female,Bachelors,Houston,Unemployed,0,0,44,middle_age,no,no
+53,59150,26304,575,8,Male,Bachelors,Chicago,Unemployed,0,1,44,middle_age,no,no
+52,49738,41444,787,39,Male,"High School",Chicago,Self-Employed,1,1,83,middle_age,no,no
+36,28578,16605,814,30,Female,"High School","New York",Salaried,0,0,58,adulting,no,no
+37,61420,14677,360,26,Male,PhD,Houston,Salaried,0,1,23,adulting,no,no
+35,32811,22562,715,24,Female,PhD,"San Francisco",Self-Employed,0,0,68,adulting,no,no
+64,49738,17951,593,6,Male,Masters,Chicago,Self-Employed,0,1,36,senior,no,no
+58,64595,30203,601,6,Female,Masters,"New York",Self-Employed,1,0,46,middle_age,no,no
+66,44368,13534,469,19,Male,Masters,"San Francisco",Salaried,0,1,30,senior,no,no
+31,67735,18009,340,35,Male,Bachelors,"New York",Unemployed,0,1,26,adulting,no,no
+32,57227,27010,530,18,Female,Bachelors,"New York",Unemployed,0,0,47,adulting,no,no
+48,39562,22467,708,1,Male,Masters,"New York",Salaried,0,1,56,middle_age,no,no
+18,71021,29290,596,33,Male,PhD,Chicago,Unemployed,0,1,41,,no,no
+20,32875,16507,754,16,Female,"High School","San Francisco",Self-Employed,0,0,50,young,no,no
+33,44349,30106,356,23,Male,Bachelors,Chicago,Self-Employed,0,1,67,adulting,no,no
+40,46905,6689,539,8,Male,Bachelors,Chicago,Salaried,0,1,14,adulting,no,no
+28,59078,7010,475,0,Female,Masters,Houston,Salaried,0,0,11,young,no,no
+29,66731,30232,362,27,Female,"High School","San Francisco",Self-Employed,0,0,45,young,no,no
+27,65792,20059,437,14,Female,Bachelors,Houston,Self-Employed,0,0,30,young,no,no
+49,53356,27367,753,20,Female,"High School","New York",Salaried,1,0,51,middle_age,no,no
+33,45796,20796,748,14,Female,Bachelors,"San Francisco",Salaried,1,0,45,adulting,no,no
+25,22610,19944,525,22,Female,"High School","San Francisco",Self-Employed,0,0,88,young,no,no
+55,49738,9376,742,1,Female,"High School",Chicago,Self-Employed,1,0,18,middle_age,no,no
+29,76500,19785,505,35,Female,Bachelors,"New York",Unemployed,1,0,25,young,no,no
+41,22459,30893,575,8,Male,"High School",Chicago,Unemployed,0,1,137,adulting,no,no
+45,38233,20453,756,1,Male,PhD,Houston,Self-Employed,0,1,53,adulting,no,no
+25,67169,25457,406,1,Female,Bachelors,"New York",Salaried,0,0,37,young,no,no
+45,53146,25235,743,17,Male,Bachelors,Chicago,Unemployed,0,1,47,adulting,no,no
+53,63921,11898,335,16,Female,PhD,Chicago,Unemployed,0,0,18,middle_age,no,no
+43,58142,26857,454,7,Male,"High School",Chicago,Self-Employed,0,1,46,adulting,no,no
+25,72044,17490,468,33,Male,PhD,"New York",Salaried,0,1,24,young,no,no
+67,54431,17923,571,33,Female,Bachelors,Houston,Salaried,0,0,32,senior,no,no
+45,59952,36782,846,4,Male,PhD,"San Francisco",Self-Employed,1,1,61,adulting,no,no
+45,39136,24778,719,28,Male,"High School",Chicago,Salaried,0,1,63,adulting,no,no
+54,58795,14892,483,27,Male,PhD,"New York",Self-Employed,0,1,25,middle_age,no,no
+58,44058,20516,536,15,Female,Bachelors,"San Francisco",Salaried,0,0,46,middle_age,no,no
+53,43203,20293,808,13,Male,"High School",Chicago,Self-Employed,1,1,46,middle_age,no,no
+44,63421,33489,740,1,Male,Bachelors,"New York",Salaried,1,1,52,adulting,no,no
+34,63524,20316,421,39,Female,Bachelors,Houston,Self-Employed,0,0,31,adulting,no,no
+26,75327,37664,716,3,Male,Masters,Chicago,Self-Employed,1,1,50,young,no,no
+50,74349,9626,834,30,Male,Bachelors,"New York",Salaried,0,1,12,middle_age,no,no
+37,49738,19741,674,25,Male,Bachelors,Chicago,Self-Employed,1,1,39,adulting,no,no
+30,24193,13897,625,26,Male,"High School","New York",Unemployed,0,1,57,young,no,no
+45,77415,16041,779,33,Female,"High School",Houston,Salaried,1,0,20,adulting,no,no
+65,63770,16215,449,30,Female,"High School",Houston,Self-Employed,0,0,25,senior,no,no
+46,38512,14310,789,10,Female,PhD,"New York",Salaried,0,0,37,middle_age,no,no
+30,60934,33841,452,7,Male,PhD,"San Francisco",Salaried,0,1,55,young,no,no
+63,34441,31380,316,11,Female,"High School",Houston,Self-Employed,0,0,91,senior,no,no
+52,59279,23221,647,34,Male,Bachelors,Chicago,Unemployed,0,1,39,middle_age,no,no
+23,30256,16205,758,33,Male,Bachelors,Houston,Salaried,0,1,53,young,no,no
+35,37877,14534,501,12,Female,PhD,Chicago,Unemployed,0,0,38,adulting,no,no
+68,60649,25934,722,26,Female,Masters,Houston,Unemployed,0,0,42,senior,no,no
+22,66093,22401,579,7,Female,"High School",Houston,Self-Employed,0,0,33,young,no,no
+64,49738,18841,721,20,Male,"High School",Chicago,Self-Employed,1,1,37,senior,no,no
+42,45707,24330,764,10,Male,PhD,Houston,Salaried,1,1,53,adulting,no,no
+19,18277,27129,654,21,Male,"High School",Chicago,Self-Employed,0,1,148,young,no,no
+27,46865,18768,677,20,Male,"High School",Chicago,Salaried,1,1,40,young,no,no
+47,58002,13701,575,27,Female,Bachelors,Houston,Salaried,0,0,23,middle_age,no,no
+67,45249,9431,379,2,Female,"High School",Houston,Unemployed,0,0,20,senior,no,no
+62,49661,22005,532,6,Male,Bachelors,Chicago,Self-Employed,0,1,44,senior,no,no
+22,47216,37338,779,13,Male,"High School","New York",Self-Employed,1,1,79,young,no,no
+50,45174,11115,453,14,Female,Masters,Houston,Salaried,0,0,24,middle_age,no,no
+18,51138,28796,708,8,Female,Masters,"San Francisco",Unemployed,0,0,56,,no,no
+35,45910,14596,330,6,Male,"High School",Houston,Self-Employed,0,1,31,adulting,no,no
+49,71649,16208,802,11,Female,Masters,"New York",Unemployed,0,0,22,middle_age,no,no
+64,16904,27319,670,18,Male,Masters,"New York",Unemployed,0,1,161,senior,no,no
+66,41812,17958,622,26,Male,Masters,Houston,Salaried,0,1,42,senior,no,no
+28,36946,21986,631,17,Male,PhD,Houston,Self-Employed,0,1,59,young,no,no
+38,53287,21833,542,12,Male,Masters,"San Francisco",Self-Employed,0,1,40,adulting,no,no
+43,51157,14608,729,0,Female,Bachelors,Houston,Self-Employed,1,0,28,adulting,no,no
+42,49738,27161,481,37,Female,PhD,"New York",Unemployed,0,0,54,adulting,no,no
+39,49738,19507,575,20,Male,Bachelors,"San Francisco",Self-Employed,1,1,39,adulting,no,no
+44,38404,8892,675,33,Male,Bachelors,Houston,Salaried,0,1,23,adulting,no,no
+66,50008,12860,380,12,Male,Bachelors,"San Francisco",Unemployed,0,1,25,senior,no,no
+30,52945,-4933,849,22,Male,PhD,"San Francisco",Self-Employed,1,1,-9,young,no,yes
+50,38033,20416,719,0,Male,"High School","New York",Unemployed,0,1,53,middle_age,no,no
+51,59426,30433,766,22,Female,Masters,"New York",Unemployed,0,0,51,middle_age,no,no
+58,46407,11623,727,27,Male,Masters,Chicago,Unemployed,0,1,25,middle_age,no,no
+52,33985,24684,356,31,Female,"High School","New York",Salaried,0,0,72,middle_age,no,no
+18,45806,23445,621,7,Male,"High School",Chicago,Self-Employed,1,1,51,,no,no
+38,35035,13985,841,25,Male,Bachelors,"New York",Self-Employed,1,1,39,adulting,no,no
+65,65550,32292,794,13,Male,Bachelors,"New York",Unemployed,0,1,49,senior,no,no
+23,78523,17819,565,23,Male,Bachelors,Chicago,Self-Employed,0,1,22,young,no,no
+45,53672,36082,526,28,Female,Masters,Chicago,Unemployed,0,0,67,adulting,no,no
+34,51669,6915,353,3,Female,"High School",Chicago,Unemployed,0,0,13,adulting,no,no
+22,52287,17847,303,17,Female,Masters,"San Francisco",Unemployed,0,0,34,young,no,no
+48,67734,18798,738,13,Male,"High School",Chicago,Salaried,1,1,27,middle_age,no,no
+22,67410,19675,609,26,Female,PhD,"San Francisco",Self-Employed,1,0,29,young,no,no
+55,48265,25731,388,2,Male,Bachelors,"San Francisco",Unemployed,0,1,53,middle_age,no,no
+20,53789,47185,619,29,Male,Masters,Chicago,Self-Employed,1,1,87,young,no,yes
+40,59790,23641,674,35,Female,PhD,Chicago,Salaried,1,0,39,adulting,no,no
+54,32935,20194,800,22,Male,Masters,Chicago,Salaried,0,1,61,middle_age,no,no
+54,68189,11230,533,17,Male,"High School","New York",Unemployed,0,1,16,middle_age,no,no
+27,76022,4879,636,39,Female,Masters,"New York",Salaried,1,0,6,young,no,no
+27,67475,29362,484,9,Female,PhD,Chicago,Salaried,0,0,43,young,no,no
+36,31316,15626,737,11,Male,PhD,Houston,Salaried,0,1,49,adulting,no,no
+34,20450,40833,479,7,Female,Bachelors,Chicago,Salaried,0,0,199,adulting,no,no
+38,60631,26946,375,31,Female,Masters,Houston,Salaried,0,0,44,adulting,no,no
+31,38597,22732,571,16,Female,"High School","New York",Salaried,0,0,58,adulting,no,no
+26,54307,23153,354,13,Male,Masters,"New York",Self-Employed,0,1,42,young,no,no
+63,73027,23232,376,36,Male,Bachelors,Houston,Salaried,1,1,31,senior,no,no
+18,40146,14443,595,8,Female,"High School","New York",Self-Employed,0,0,35,,no,no
+68,44337,5988,518,25,Male,"High School",Chicago,Unemployed,0,1,13,senior,no,no
+62,54151,15595,576,23,Male,Bachelors,Houston,Salaried,0,1,28,senior,no,no
+30,30537,19853,565,22,Female,"High School",Houston,Salaried,0,0,65,young,no,no
+21,38632,14817,342,30,Female,PhD,"San Francisco",Self-Employed,0,0,38,young,no,no
+18,50373,9711,575,38,Female,PhD,"New York",Salaried,0,0,19,,no,no
+66,45493,14014,527,1,Male,"High School",Houston,Self-Employed,0,1,30,senior,no,no
+57,59126,28286,526,17,Male,Masters,Houston,Self-Employed,0,1,47,middle_age,no,no
+49,91490,25986,362,15,Male,"High School",Houston,Salaried,0,1,28,middle_age,yes,no
+51,49738,21371,470,28,Male,Masters,"New York",Unemployed,0,1,42,middle_age,no,no
+45,37374,24697,606,10,Female,Bachelors,Houston,Unemployed,0,0,66,adulting,no,no
+48,71274,10945,333,1,Female,PhD,Houston,Unemployed,0,0,15,middle_age,no,no
+25,49738,13637,429,13,Female,Bachelors,Chicago,Self-Employed,0,0,27,young,no,no
+56,29166,22488,693,3,Female,Bachelors,Chicago,Self-Employed,0,0,77,middle_age,no,no
+43,41073,11964,450,38,Female,Bachelors,"San Francisco",Salaried,0,0,29,adulting,no,no
+51,45757,20867,683,33,Male,PhD,Houston,Self-Employed,1,1,45,middle_age,no,no
+20,40714,9900,575,38,Female,Bachelors,"New York",Unemployed,0,0,24,young,no,no
+67,49527,6803,313,8,Male,"High School","San Francisco",Salaried,0,1,13,senior,no,no
+29,54121,25889,380,39,Male,"High School","San Francisco",Unemployed,0,1,47,young,no,no
+18,66034,28216,506,6,Female,Masters,"San Francisco",Salaried,0,0,42,,no,no
+61,51368,14953,503,16,Male,Masters,Houston,Unemployed,0,1,29,senior,no,no
+22,41571,7836,678,22,Male,Masters,"San Francisco",Salaried,1,1,18,young,no,no
+47,65220,2333,843,10,Female,"High School","New York",Unemployed,0,0,3,middle_age,no,no
+47,37734,34736,322,21,Male,PhD,Chicago,Self-Employed,0,1,92,middle_age,no,no
+34,25511,20891,461,17,Female,Masters,Chicago,Unemployed,0,0,81,adulting,no,no
+65,68089,15136,443,27,Female,"High School",Houston,Salaried,0,0,22,senior,no,no
+64,67128,17089,403,15,Male,PhD,"New York",Unemployed,0,1,25,senior,no,no
+40,38116,4693,681,3,Male,Bachelors,"New York",Self-Employed,0,1,12,adulting,no,no
+32,44014,24959,754,35,Female,"High School","New York",Salaried,1,0,56,adulting,no,no
+54,36246,36001,575,21,Male,Bachelors,Houston,Self-Employed,0,1,99,middle_age,no,no
+38,54899,13738,623,10,Female,Masters,"New York",Unemployed,0,0,25,adulting,no,no
+31,75981,39068,470,20,Female,Bachelors,Chicago,Salaried,1,0,51,adulting,no,no
+19,60543,19069,573,39,Female,"High School","New York",Unemployed,0,0,31,young,no,no
+28,65536,33334,751,15,Female,Masters,"New York",Salaried,1,0,50,young,no,no
+68,62296,22458,424,8,Female,Masters,Houston,Self-Employed,0,0,36,senior,no,no
+56,49998,22449,682,34,Female,PhD,"San Francisco",Self-Employed,1,0,44,middle_age,no,no
+55,66250,34751,616,33,Male,Bachelors,"San Francisco",Self-Employed,1,1,52,middle_age,no,no
+51,61175,26262,406,8,Female,Masters,Houston,Unemployed,0,0,42,middle_age,no,no
+55,71592,22999,762,12,Male,PhD,Houston,Salaried,1,1,32,middle_age,no,no
+67,43107,4469,729,5,Male,PhD,Houston,Self-Employed,1,1,10,senior,no,no
+51,23928,7942,575,3,Male,"High School",Houston,Unemployed,0,1,33,middle_age,no,no
+35,65679,23668,795,27,Female,Masters,"New York",Unemployed,0,0,36,adulting,no,no
+47,55247,31742,661,10,Female,Bachelors,"New York",Salaried,1,0,57,middle_age,no,no
+32,45559,21028,731,33,Male,Bachelors,"San Francisco",Self-Employed,1,1,46,adulting,no,no
+44,46398,15270,819,34,Female,Masters,Houston,Unemployed,0,0,32,adulting,no,no
+68,88320,5287,705,4,Male,Bachelors,Houston,Self-Employed,1,1,5,senior,no,no
+51,40367,13731,676,38,Female,PhD,"New York",Salaried,1,0,34,middle_age,no,no
+69,37200,21048,451,10,Female,PhD,Houston,Self-Employed,0,0,56,senior,no,no
+55,49738,13148,621,11,Female,Masters,Chicago,Self-Employed,1,0,26,middle_age,no,no
+50,67707,12284,513,18,Male,Bachelors,"New York",Unemployed,0,1,18,middle_age,no,no
+41,84176,19591,364,12,Male,PhD,Chicago,Unemployed,0,1,23,adulting,no,no
+32,59860,31587,569,3,Male,Masters,"New York",Salaried,0,1,52,adulting,no,no
+47,30944,25478,836,13,Female,PhD,"New York",Salaried,0,0,82,middle_age,no,no
+59,79563,22287,399,1,Female,Masters,"New York",Salaried,0,0,28,middle_age,no,no
+68,49708,21508,404,7,Male,"High School","San Francisco",Unemployed,0,1,43,senior,no,no
+34,37434,24409,430,21,Male,"High School","San Francisco",Salaried,0,1,65,adulting,no,no
+22,33809,19119,688,12,Male,Masters,"New York",Salaried,0,1,56,young,no,no
+46,62545,16711,620,20,Female,"High School","New York",Unemployed,0,0,26,middle_age,no,no
+21,53582,25906,737,20,Male,"High School","New York",Salaried,1,1,48,young,no,no
+27,55176,18197,318,27,Female,Bachelors,"New York",Unemployed,0,0,32,young,no,no
+34,69298,10491,524,32,Female,"High School",Houston,Salaried,0,0,15,adulting,no,no
+27,37968,31546,759,28,Male,Bachelors,Houston,Unemployed,0,1,83,young,no,no
+34,49738,5041,693,36,Female,"High School",Houston,Self-Employed,1,0,10,adulting,no,no
+37,42213,32147,525,21,Female,"High School","San Francisco",Unemployed,0,0,76,adulting,no,no
+41,82460,24052,659,25,Female,PhD,Chicago,Unemployed,0,0,29,adulting,no,no
+22,58981,12247,729,10,Female,Masters,"New York",Unemployed,0,0,20,young,no,no
+51,36196,20194,314,10,Male,"High School",Houston,Salaried,0,1,55,middle_age,no,no
+23,19619,16569,845,33,Female,Masters,Houston,Unemployed,0,0,84,young,no,no
+19,62134,26462,713,18,Male,Masters,Houston,Unemployed,1,1,42,young,no,no
+30,44387,26303,654,36,Female,PhD,"New York",Salaried,1,0,59,young,no,no
+60,47667,23691,756,13,Male,Masters,"New York",Self-Employed,1,1,49,middle_age,no,no
+60,61493,25971,830,28,Female,Masters,Chicago,Unemployed,0,0,42,middle_age,no,no
+65,65156,19081,495,18,Male,"High School","San Francisco",Salaried,0,1,29,senior,no,no
+28,68356,34093,414,36,Female,PhD,Chicago,Self-Employed,0,0,49,young,no,no
+68,32377,29789,716,20,Male,Masters,"New York",Unemployed,0,1,92,senior,no,no
+64,71388,16184,651,23,Male,"High School",Chicago,Self-Employed,1,1,22,senior,no,no
+40,41314,26487,374,25,Male,PhD,Houston,Unemployed,0,1,64,adulting,no,no
+33,16156,25789,335,11,Female,"High School",Chicago,Unemployed,0,0,159,adulting,no,no
+48,32323,17922,541,18,Female,PhD,Houston,Self-Employed,0,0,55,middle_age,no,no
+28,53270,17294,362,29,Male,PhD,Chicago,Self-Employed,0,1,32,young,no,no
+33,35318,29716,808,14,Female,Bachelors,Houston,Self-Employed,0,0,84,adulting,no,no
+25,48679,19882,487,2,Male,Bachelors,Chicago,Unemployed,0,1,40,young,no,no
+21,55074,22081,392,12,Male,Bachelors,"San Francisco",Unemployed,0,1,40,young,no,no
+57,47279,31209,304,8,Female,Masters,Chicago,Salaried,0,0,66,middle_age,no,no
+21,42585,40267,737,12,Female,"High School","New York",Salaried,1,0,94,young,no,no
+42,31240,15787,465,15,Female,PhD,"New York",Salaried,0,0,50,adulting,no,no
+20,50329,18233,745,13,Female,"High School",Houston,Unemployed,0,0,36,young,no,no
+49,19026,20592,324,7,Female,Masters,"New York",Self-Employed,0,0,108,middle_age,no,no
+20,39710,20774,807,18,Female,Bachelors,Houston,Salaried,0,0,52,young,no,no
+44,36083,23011,397,31,Male,Bachelors,"San Francisco",Unemployed,0,1,63,adulting,no,no
+46,46409,16079,567,34,Male,"High School","New York",Self-Employed,0,1,34,middle_age,no,no
+49,46800,9870,692,22,Male,"High School","New York",Salaried,1,1,21,middle_age,no,no
+67,49738,34031,584,20,Female,PhD,Houston,Self-Employed,0,0,68,senior,no,no
+68,73752,24897,408,17,Male,"High School","San Francisco",Self-Employed,0,1,33,senior,no,no
+36,33233,16652,326,13,Female,PhD,"San Francisco",Salaried,0,0,50,adulting,no,no
+38,79892,23497,354,15,Female,PhD,Chicago,Salaried,0,0,29,adulting,no,no
+22,38311,34664,432,23,Female,Bachelors,Houston,Unemployed,0,0,90,young,no,no
+35,52588,13696,351,31,Male,"High School",Houston,Self-Employed,0,1,26,adulting,no,no
+45,57663,21689,792,10,Male,Bachelors,"San Francisco",Salaried,1,1,37,adulting,no,no
+59,86669,8881,597,10,Female,PhD,Houston,Salaried,0,0,10,middle_age,no,no
+39,41866,19053,698,3,Male,Bachelors,"New York",Self-Employed,0,1,45,adulting,no,no
+38,23049,24933,317,25,Female,Bachelors,"New York",Self-Employed,0,0,108,adulting,no,no
+23,72356,11082,545,4,Female,Bachelors,"New York",Self-Employed,0,0,15,young,no,no
+18,37499,18502,802,35,Male,Masters,Houston,Salaried,0,1,49,,no,no
+22,44576,26399,388,32,Female,Masters,Chicago,Salaried,0,0,59,young,no,no
+58,33234,24714,575,13,Female,"High School",Chicago,Unemployed,0,0,74,middle_age,no,no
+29,44619,10739,539,31,Female,Bachelors,"San Francisco",Self-Employed,0,0,24,young,no,no
+43,37394,22990,789,6,Female,"High School",Houston,Salaried,0,0,61,adulting,no,no
+63,49738,24470,312,9,Male,Bachelors,"San Francisco",Salaried,0,1,49,senior,no,no
+51,51212,20864,614,1,Male,"High School",Houston,Self-Employed,1,1,40,middle_age,no,no
+66,39784,28715,497,9,Female,Bachelors,Chicago,Salaried,0,0,72,senior,no,no
+31,64938,15284,542,34,Female,PhD,"New York",Self-Employed,1,0,23,adulting,no,no
+43,53825,23300,806,20,Female,Masters,Houston,Salaried,1,0,43,adulting,no,no
+62,22309,10678,342,39,Male,Masters,Chicago,Self-Employed,0,1,47,senior,no,no
+44,63796,7195,629,7,Male,Masters,Chicago,Self-Employed,1,1,11,adulting,no,no
+26,52773,26249,728,17,Male,PhD,Chicago,Salaried,1,1,49,young,no,no
+43,70861,20164,461,8,Male,Masters,"New York",Self-Employed,0,1,28,adulting,no,no
+64,49738,16293,734,29,Male,PhD,Chicago,Unemployed,0,1,32,senior,no,no
+39,38124,11479,532,3,Female,Bachelors,"San Francisco",Unemployed,0,0,30,adulting,no,no
+64,46936,26617,410,34,Male,PhD,Chicago,Self-Employed,0,1,56,senior,no,no
+47,62059,7936,531,13,Male,"High School",Chicago,Unemployed,0,1,12,middle_age,no,no
+60,38439,27943,572,13,Female,"High School",Houston,Salaried,0,0,72,middle_age,no,no
+65,43396,23608,340,36,Male,Bachelors,Houston,Salaried,0,1,54,senior,no,no
+34,46675,8338,765,19,Female,Bachelors,Houston,Self-Employed,1,0,17,adulting,no,no
+43,32759,21008,376,28,Female,"High School",Chicago,Salaried,0,0,64,adulting,no,no
+53,38655,41230,789,22,Male,Masters,Chicago,Salaried,0,1,106,middle_age,no,no
+18,52588,29515,416,20,Male,Masters,"San Francisco",Unemployed,0,1,56,,no,no
+25,68037,13376,733,30,Male,Masters,"New York",Salaried,1,1,19,young,no,no
+66,54757,25734,318,31,Male,Bachelors,Chicago,Salaried,0,1,46,senior,no,no
+52,49312,8673,495,6,Female,"High School","New York",Unemployed,0,0,17,middle_age,no,no
+69,37531,9029,750,12,Female,PhD,Chicago,Self-Employed,0,0,24,senior,no,no
+32,66427,19462,724,22,Male,Bachelors,"New York",Self-Employed,1,1,29,adulting,no,no
+64,56503,24413,693,7,Female,"High School",Houston,Unemployed,0,0,43,senior,no,no
+39,39399,26491,583,11,Female,Masters,Chicago,Unemployed,0,0,67,adulting,no,no
+31,63480,26601,333,35,Female,Masters,"San Francisco",Salaried,0,0,41,adulting,no,no
+43,58394,23958,594,15,Male,Masters,"New York",Salaried,0,1,41,adulting,no,no
+45,37797,7088,550,25,Female,"High School",Houston,Self-Employed,0,0,18,adulting,no,no
+40,48479,19513,638,28,Female,Masters,"San Francisco",Self-Employed,1,0,40,adulting,no,no
+31,42608,27749,739,28,Female,"High School",Houston,Unemployed,0,0,65,adulting,no,no
+41,89503,23546,479,5,Male,Bachelors,Chicago,Salaried,0,1,26,adulting,yes,no
+19,57976,21457,527,36,Female,PhD,"San Francisco",Unemployed,0,0,37,young,no,no
+62,52801,22634,322,32,Female,Bachelors,"New York",Self-Employed,0,0,42,senior,no,no
+43,57090,22500,626,30,Female,Bachelors,"New York",Self-Employed,1,0,39,adulting,no,no
+31,70687,4281,453,17,Female,Bachelors,"San Francisco",Unemployed,0,0,6,adulting,no,no
+68,48749,29239,445,37,Female,"High School","New York",Salaried,0,0,59,senior,no,no
+24,41151,19116,551,30,Female,Bachelors,Houston,Salaried,0,0,46,young,no,no
+20,62664,25661,601,15,Female,"High School","San Francisco",Unemployed,0,0,40,young,no,no
+64,47376,1555,369,39,Male,"High School","New York",Self-Employed,0,1,3,senior,no,no
+40,33952,33288,842,36,Male,Bachelors,Houston,Unemployed,0,1,98,adulting,no,no
+63,31030,10749,392,13,Male,"High School","New York",Unemployed,0,1,34,senior,no,no
+60,72939,40331,462,38,Male,"High School",Houston,Salaried,1,1,55,middle_age,no,no
+64,51975,36954,380,3,Male,"High School",Chicago,Self-Employed,0,1,71,senior,no,no
+62,41156,9401,362,29,Male,Bachelors,Houston,Self-Employed,0,1,22,senior,no,no
+35,46485,26536,735,32,Female,PhD,"New York",Salaried,1,0,57,adulting,no,no
+55,62112,11862,347,35,Male,"High School",Houston,Self-Employed,0,1,19,middle_age,no,no
